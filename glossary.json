@@ -1,6 +1,366 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": ""
+    "updated": "2026-08-15T07:45:22+00:00"
+  },
+  "Warden": {
+    "zh": "守護人",
+    "notes": "GM 等同物，玩家決定：字面看守/獨管意涵，語氣中性",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hit Protection": {
+    "zh": "防護值",
+    "notes": "玩家決定：強調防護/避免受傷而非健康",
+    "status": "approved",
+    "is_term": true
+  },
+  "Round": {
+    "zh": "戰鬥回合",
+    "notes": "玩家決定：與 Turn 區分，戰鬥用「戰鬥回合」",
+    "status": "approved",
+    "is_term": true
+  },
+  "Turn": {
+    "zh": "探索回合",
+    "notes": "玩家決定：與 Round 區分，地城探索用「探索回合」",
+    "status": "approved",
+    "is_term": true
+  },
+  "Player Character": {
+    "zh": "玩家角色",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Strength": {
+    "zh": "力量",
+    "notes": "屬性，STR 縮寫保留原文",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dexterity": {
+    "zh": "敏捷",
+    "notes": "屬性，DEX 縮寫保留原文",
+    "status": "approved",
+    "is_term": true
+  },
+  "Willpower": {
+    "zh": "意志",
+    "notes": "屬性，WIL 縮寫保留原文",
+    "status": "approved",
+    "is_term": true
+  },
+  "Save": {
+    "zh": "豁免",
+    "notes": "標準 OSR/D&D 系譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Armor": {
+    "zh": "護甲",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Attribute": {
+    "zh": "屬性",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Attribute Loss": {
+    "zh": "屬性損失",
+    "notes": "複合詞，直譯",
+    "status": "approved",
+    "is_term": true
+  },
+  "Critical Damage": {
+    "zh": "重創",
+    "notes": "",
+    "status": "approved",
+    "is_term": true
+  },
+  "Scars": {
+    "zh": "傷疤",
+    "notes": "對應書中受傷表格結果",
+    "status": "approved",
+    "is_term": true
+  },
+  "Die of Fate": {
+    "zh": "命運骰",
+    "notes": "直譯",
+    "status": "approved",
+    "is_term": true
+  },
+  "Actions": {
+    "zh": "行動",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Impaired": {
+    "zh": "受阻",
+    "notes": "攻擊減益狀態",
+    "status": "approved",
+    "is_term": true
+  },
+  "Enhanced": {
+    "zh": "強化",
+    "notes": "攻擊增益狀態",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blast": {
+    "zh": "爆發",
+    "notes": "範圍傷害詞綴",
+    "status": "approved",
+    "is_term": true
+  },
+  "Detachment": {
+    "zh": "部隊",
+    "notes": "集群戰鬥單位",
+    "status": "approved",
+    "is_term": true
+  },
+  "Retreat": {
+    "zh": "撤退",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Morale": {
+    "zh": "士氣",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ranged Attacks": {
+    "zh": "遠程攻擊",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hireling": {
+    "zh": "傭工",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reaction": {
+    "zh": "反應",
+    "notes": "NPC 反應表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Spellbook": {
+    "zh": "法術書",
+    "notes": "本書核心魔法載體",
+    "status": "approved",
+    "is_term": true
+  },
+  "Scroll": {
+    "zh": "卷軸",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Relic": {
+    "zh": "遺物",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Recharge": {
+    "zh": "充能",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Fatigue": {
+    "zh": "疲勞",
+    "notes": "庫存負擔機制",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dungeon Exploration": {
+    "zh": "地城探索",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dungeon Events": {
+    "zh": "地城事件",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Wilderness Exploration": {
+    "zh": "荒野探索",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Downtime": {
+    "zh": "空閒期",
+    "notes": "標準譯法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Traits": {
+    "zh": "特徵",
+    "notes": "角色創建隨機表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Background": {
+    "zh": "出身",
+    "notes": "角色創建隨機表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gear Packages": {
+    "zh": "裝備包",
+    "notes": "角色創建起始裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Marketplace": {
+    "zh": "市集",
+    "notes": "購買物品章節",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cairn": {
+    "zh": "石冢",
+    "notes": "遊戲本身譯名，與網站標題一致",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rope": {
+    "zh": "繩索",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gloves": {
+    "zh": "手套",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ink": {
+    "zh": "墨水",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Parchment": {
+    "zh": "羊皮紙",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Oil": {
+    "zh": "油",
+    "notes": "裝備（油瓶）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Whistle": {
+    "zh": "哨子",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sack": {
+    "zh": "麻袋",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bandages": {
+    "zh": "繃帶",
+    "notes": "裝備，治療用",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hammer": {
+    "zh": "鎚子",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lantern": {
+    "zh": "提燈",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Candle": {
+    "zh": "蠟燭",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mirror": {
+    "zh": "鏡子",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pliers": {
+    "zh": "鉗子",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bottle": {
+    "zh": "瓶子",
+    "notes": "裝備容器",
+    "status": "approved",
+    "is_term": true
+  },
+  "Shovel": {
+    "zh": "鏟子",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Whetstone": {
+    "zh": "磨刀石",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bag": {
+    "zh": "袋子",
+    "notes": "裝備容器",
+    "status": "approved",
+    "is_term": true
+  },
+  "Spyglass": {
+    "zh": "望遠鏡",
+    "notes": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rations": {
+    "zh": "口糧",
+    "notes": "裝備，補給品",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gold": {
+    "zh": "金幣",
+    "notes": "貨幣單位（gp）",
+    "status": "approved",
+    "is_term": true
+  },
+  "NPC": {
+    "zh": "非玩家角色",
+    "notes": "書中實際多用 NPCs 縮寫，Non-Player Character 全稱僅出現一次",
+    "status": "approved",
+    "is_term": true
   }
 }

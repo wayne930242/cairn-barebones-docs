@@ -45,17 +45,17 @@
      ============================================ */
 
   /* 背景色 HSL - 調整 --bg-l 可調暗背景 */
-  --bg-h: 224;
+  --bg-h: 280;
   --bg-s: 25%;
-  --bg-l: 6%;
+  --bg-l: 8%;
 
   /* 主色 HSL - 連結、按鈕、強調 */
-  --color-primary-h: 217;
+  --color-primary-h: 280;
   --color-primary-s: 91%;
   --color-primary-l: 60%;
 
   /* 次要色 HSL - 成功、正向提示 */
-  --color-secondary-h: 142;
+  --color-secondary-h: 320;
   --color-secondary-s: 71%;
   --color-secondary-l: 45%;
 
@@ -65,7 +65,7 @@
   --color-tertiary-l: 60%;
 
   /* 第四色 HSL - 注意、次要強調 */
-  --color-quaternary-h: 25;
+  --color-quaternary-h: 260;
   --color-quaternary-s: 95%;
   --color-quaternary-l: 53%;
 

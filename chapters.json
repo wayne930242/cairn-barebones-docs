@@ -1,18 +1,165 @@
 {
-  "source": "data/markdown/YOUR-RULEBOOK_pages.md",
+  "source": "data/markdown/Cairn_Barebones_Edition_pages.md",
   "output_dir": "docs/src/content/docs",
   "mode": "zh_only",
+  "images": {
+    "enabled": false
+  },
   "chapters": {
-    "example-section": {
-      "title": "Example Section",
+    "overview-principles": {
+      "title": "總覽與原則",
       "order": 1,
       "files": {
         "index": {
-          "title": "Example Chapter",
-          "description": "格式參考用佔位章節；執行 /init-doc 或 /chapter-split 後會被真實內容取代。",
+          "title": "總覽與原則",
+          "description": "遊戲的核心理念、守護人與玩家的行動原則",
           "pages": [
-            1,
-            2
+            3,
+            5
+          ],
+          "order": 0
+        }
+      }
+    },
+    "core-rules": {
+      "title": "核心規則",
+      "order": 2,
+      "files": {
+        "player-characters": {
+          "title": "玩家角色",
+          "description": "屬性、防護值、護甲與物品欄規則",
+          "pages": [
+            6,
+            7
+          ],
+          "order": 0
+        },
+        "npcs-and-magic": {
+          "title": "豁免、非玩家角色與魔法",
+          "description": "豁免骰機制、非玩家角色反應與魔法系統",
+          "pages": [
+            8,
+            9
+          ],
+          "order": 1
+        },
+        "combat": {
+          "title": "戰鬥",
+          "description": "戰鬥回合、攻擊傷害、重創與傷疤結果",
+          "pages": [
+            10,
+            12
+          ],
+          "order": 2
+        }
+      }
+    },
+    "procedures": {
+      "title": "遊戲程序",
+      "order": 3,
+      "files": {
+        "dungeon-exploration": {
+          "title": "地城探索",
+          "description": "地城探索循環、行動與地城事件表",
+          "pages": [
+            13,
+            15
+          ],
+          "order": 0
+        },
+        "wilderness-exploration": {
+          "title": "荒野探索",
+          "description": "地形難度、天氣、荒野探索循環與行動",
+          "pages": [
+            16,
+            20
+          ],
+          "order": 1
+        },
+        "downtime": {
+          "title": "空閒期",
+          "description": "空閒期行動：調查、訓練與增進羈絆",
+          "pages": [
+            21,
+            23
+          ],
+          "order": 2
+        }
+      }
+    },
+    "character-creation": {
+      "title": "角色創建",
+      "order": 4,
+      "files": {
+        "basics": {
+          "title": "基礎",
+          "description": "姓名、屬性與防護值的隨機生成步驟",
+          "pages": [
+            24,
+            27
+          ],
+          "order": 0
+        },
+        "traits": {
+          "title": "特徵與出身",
+          "description": "外貌、個性特徵與出身職業的隨機表",
+          "pages": [
+            28,
+            32
+          ],
+          "order": 1
+        },
+        "armor-weapons": {
+          "title": "護甲與武器",
+          "description": "起始護甲、武器與額外裝備的隨機表",
+          "pages": [
+            33,
+            35
+          ],
+          "order": 2
+        }
+      }
+    },
+    "gear-packages": {
+      "title": "裝備包",
+      "order": 5,
+      "files": {
+        "index": {
+          "title": "裝備包",
+          "description": "戰士、盜賊、法師、牧師的職業起始裝備包",
+          "pages": [
+            36,
+            36
+          ],
+          "order": 0
+        }
+      }
+    },
+    "marketplace": {
+      "title": "市集",
+      "order": 6,
+      "files": {
+        "index": {
+          "title": "市集",
+          "description": "護甲、武器、交通工具與各類物資的價目表",
+          "pages": [
+            37,
+            39
+          ],
+          "order": 0
+        }
+      }
+    },
+    "spellbooks": {
+      "title": "法術書",
+      "order": 7,
+      "files": {
+        "index": {
+          "title": "法術書",
+          "description": "一百種法術書效果與外觀特徵一覽表",
+          "pages": [
+            40,
+            46
           ],
           "order": 0
         }

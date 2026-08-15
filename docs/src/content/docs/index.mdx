@@ -1,14 +1,56 @@
 ---
-title: 遊戲規則文件
-description: 使用 game-doc-template 建立的規則書文件站。執行 /init-doc 開始設定。
+title: "石冢：陽春版"
+description: "Cairn: Barebones Edition 繁體中文規則書——地穴探索、快速隨機創角、致命戰鬥的極簡 OSR 規則"
 template: splash
 hero:
-  title: 遊戲規則文件
-  tagline: 尚未初始化——請在專案中執行 /init-doc 匯入規則書。
+  tagline: 地道、頹堡、幽林，那些恐怖之地
+  actions:
+    - text: 總覽與原則
+      link: /overview-principles/
+      icon: right-arrow
+    - text: 核心規則
+      link: /core-rules/player-characters/
+      icon: document
+      variant: minimal
+sidebar:
+  order: 0
 ---
 
-## 開始使用
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-1. 將規則書 PDF 放入 `data/pdfs/`
-2. 執行 `/init-doc` 完成抽取、章節切分與術語初始化
-3. 執行 `/translate` 或 `/super-translate` 開始翻譯
+## 內容簡介
+
+《石冢：陽春版》是一款關於穿越地底通道、頹圮城堡、幽暗森林與各種恐怖之地的冒險遊戲。角色創建完全隨機且快速，探索充滿張力與回報，戰鬥則混亂而致命。
+
+## 快速導航
+
+<CardGrid>
+  <LinkCard title="總覽與原則" href="/overview-principles/" description="遊戲的核心理念、守護人與玩家的行動原則" />
+  <LinkCard title="核心規則" href="/core-rules/player-characters/" description="屬性、防護值、護甲與物品欄規則" />
+  <LinkCard title="遊戲程序" href="/procedures/dungeon-exploration/" description="地城探索循環、行動與地城事件表" />
+  <LinkCard title="角色創建" href="/character-creation/basics/" description="姓名、屬性與防護值的隨機生成步驟" />
+  <LinkCard title="裝備包" href="/gear-packages/" description="戰士、盜賊、法師、牧師的職業起始裝備包" />
+  <LinkCard title="市集" href="/marketplace/" description="護甲、武器、交通工具與各類物資的價目表" />
+  <LinkCard title="法術書" href="/spellbooks/" description="一百種法術書效果與外觀特徵一覽表" />
+</CardGrid>
+
+---
+
+## 版權宣告
+
+© 2026 Yochai Gal. Text is CC BY-SA 4.0. 中文翻譯內容依原授權條款提供。
+
+## 製作名單
+
+| 職責 | 人員 |
+| --- | --- |
+| 原作 | Yochai Gal |
+| 編輯 | Derek B. |
+| 排版 | Adam Hensley |
+| 封面美術 | Amanda Lee Franck |
+| 角色卡設計 | Skullfungus |
+| 出版 | Cairn Press |
+| 翻譯 | 洪偉 |
+
+
+[GitHub 原始碼](https://github.com/wayne930242/cairn-barebones-docs)

@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "description": "Translation progress tracker",
+    "updated": "2026-08-15",
+    "total_chapters": 13,
+    "completed": 0
+  },
+  "chapters": [
+    {
+      "id": "docs-src-content-docs-overview-principles-index",
+      "title": "總覽與原則",
+      "file": "docs/src/content/docs/overview-principles/index.md",
+      "source_pages": "3-5",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-core-rules-player-characters",
+      "title": "玩家角色",
+      "file": "docs/src/content/docs/core-rules/player-characters.md",
+      "source_pages": "6-7",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-core-rules-npcs-and-magic",
+      "title": "豁免、非玩家角色與魔法",
+      "file": "docs/src/content/docs/core-rules/npcs-and-magic.md",
+      "source_pages": "8-9",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-core-rules-combat",
+      "title": "戰鬥",
+      "file": "docs/src/content/docs/core-rules/combat.md",
+      "source_pages": "10-12",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-procedures-dungeon-exploration",
+      "title": "地城探索",
+      "file": "docs/src/content/docs/procedures/dungeon-exploration.md",
+      "source_pages": "13-15",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-procedures-wilderness-exploration",
+      "title": "荒野探索",
+      "file": "docs/src/content/docs/procedures/wilderness-exploration.md",
+      "source_pages": "16-20",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-procedures-downtime",
+      "title": "空閒期",
+      "file": "docs/src/content/docs/procedures/downtime.md",
+      "source_pages": "21-23",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-character-creation-basics",
+      "title": "基礎",
+      "file": "docs/src/content/docs/character-creation/basics.md",
+      "source_pages": "24-27",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-character-creation-traits",
+      "title": "特徵與出身",
+      "file": "docs/src/content/docs/character-creation/traits.md",
+      "source_pages": "28-32",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-character-creation-armor-weapons",
+      "title": "護甲與武器",
+      "file": "docs/src/content/docs/character-creation/armor-weapons.md",
+      "source_pages": "33-35",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-gear-packages-index",
+      "title": "裝備包",
+      "file": "docs/src/content/docs/gear-packages/index.md",
+      "source_pages": "36-36",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-marketplace-index",
+      "title": "市集",
+      "file": "docs/src/content/docs/marketplace/index.md",
+      "source_pages": "37-39",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    },
+    {
+      "id": "docs-src-content-docs-spellbooks-index",
+      "title": "法術書",
+      "file": "docs/src/content/docs/spellbooks/index.md",
+      "source_pages": "40-46",
+      "status": "not_started",
+      "notes": "",
+      "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ import starlightAutoSidebar from 'starlight-auto-sidebar';
 
 const SITE_CONFIG = {
 	// 網站標題（顯示在導航列）
-	title: '石堇：簡化版',
+	title: '石冢：陽春版',
 	// 預設語言
 	defaultLocale: 'zh-TW',
 	localeLabel: '繁體中文',
@@ -47,7 +47,36 @@ export default defineConfig({
 			// 側邊欄設定
 			// TODO: 根據您的內容結構修改
 			// ============================================
-			sidebar: [],
+			sidebar: [
+				{
+					label: '總覽與原則',
+					slug: 'overview-principles',
+				},
+				{
+					label: '核心規則',
+					autogenerate: { directory: 'core-rules' },
+				},
+				{
+					label: '遊戲程序',
+					autogenerate: { directory: 'procedures' },
+				},
+				{
+					label: '角色創建',
+					autogenerate: { directory: 'character-creation' },
+				},
+				{
+					label: '裝備包',
+					slug: 'gear-packages',
+				},
+				{
+					label: '市集',
+					slug: 'marketplace',
+				},
+				{
+					label: '法術書',
+					slug: 'spellbooks',
+				}
+			],
 			plugins: [starlightAutoSidebar()],
 			customCss: ['./src/styles/custom.css'],
 		}),

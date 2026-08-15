@@ -1,12 +1,100 @@
 {
   "_meta": {
     "description": "風格決定記錄 - 翻譯用語選擇與原因",
-    "updated": "2026-08-15T07:05:44+00:00"
+    "updated": "2026-08-15T07:23:48+00:00"
   },
   "repository": {
     "slug": "cairn-barebones-docs",
     "visibility": "public",
     "url": "https://github.com/wayne930242/cairn-barebones-docs",
+    "show_on_homepage": true
+  },
+  "document_format": {
+    "layout_profile": "auto",
+    "aside_mapping": {
+      "note": "note",
+      "tip": "tip",
+      "caution": "caution",
+      "danger": "danger"
+    },
+    "component_usage": {
+      "cards": "不使用，內容結構簡單，標題+清單即可呈現",
+      "tabs": "不使用"
+    },
+    "table_conventions": {
+      "tables": "d10/d6/d100 骰表原始擷取為扁平雙欄清單，翻譯時重組為正式多欄 Markdown table",
+      "dice_tables": "骰表一律轉換為 Markdown table，欄位為「骰值」與「結果」，雙欄併排的表格拆成左右兩組各自成 table 或合併為 4 欄"
+    }
+  },
+  "translation_mode": {
+    "mode": "full",
+    "options": {
+      "full": {
+        "name": "全文翻譯",
+        "description": "完整翻譯所有內容，保留原文結構與細節"
+      },
+      "summary": {
+        "name": "摘要翻譯",
+        "description": "精簡翻譯，提取重點規則，省略範例與冗長說明"
+      },
+      "bilingual": {
+        "name": "雙語模式",
+        "description": "中文翻譯為主，英文原文以 blockquote 附於每段之後"
+      }
+    },
+    "reason": "使用者在 init-doc 選擇純中文翻譯模式"
+  },
+  "theme": {
+    "mode": "dark-forced",
+    "overlay": "0",
+    "palette": "暗黑系：紫洋紅紅（primary=280 紫, secondary=320 洋紅, tertiary=0 紅, quaternary=260 藍紫），呼應 Cairn 的地穴探索、致命風險基調",
+    "bg_h": "280",
+    "bg_l": "8%"
+  },
+  "images": {
+    "preserve_images": false
+  },
+  "site": {
+    "title": "石冢：陽春版",
+    "description": "Cairn: Barebones Edition 繁體中文規則書——地穴探索、快速隨機創角、致命戰鬥的極簡 OSR 規則",
+    "tagline": "地道、頹堡、幽林，那些恐怖之地",
+    "intro": "《石冢：陽春版》是一款關於穿越地底通道、頹圮城堡、幽暗森林與各種恐怖之地的冒險遊戲。角色創建完全隨機且快速，探索充滿張力與回報，戰鬥則混亂而致命。"
+  },
+  "copyright": {
+    "text": "© 2026 Yochai Gal. Text is CC BY-SA 4.0. 中文翻譯內容依原授權條款提供。",
+    "show_on_homepage": true
+  },
+  "credits": {
+    "entries": [
+      {
+        "role": "原作",
+        "name": "Yochai Gal"
+      },
+      {
+        "role": "編輯",
+        "name": "Derek B."
+      },
+      {
+        "role": "排版",
+        "name": "Adam Hensley"
+      },
+      {
+        "role": "封面美術",
+        "name": "Amanda Lee Franck"
+      },
+      {
+        "role": "角色卡設計",
+        "name": "Skullfungus"
+      },
+      {
+        "role": "出版",
+        "name": "Cairn Press"
+      },
+      {
+        "role": "翻譯",
+        "name": "洪偉"
+      }
+    ],
     "show_on_homepage": true
   }
 }
