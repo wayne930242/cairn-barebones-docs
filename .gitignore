@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.astro/
+.vercel/
+
+# Data files (PDFs and extracted content)
+data/pdfs/*
+!data/pdfs/.gitkeep
+data/markdown/*
+!data/markdown/.gitkeep
+
+# Python virtual environment
+.venv/
+scripts/.venv/
+__pycache__/
+*.pyc
+
+# Script cache
+.cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+.claude/settings.local.json
+
+# Drafts
+.state/
+
+# Temporary work area
+tmp/
+
+# Test cache
+.pytest_cache/
+
+# Chapter extraction
+chapters_*.json
+
+# Superpowers SDD workspace
+.superpowers/

@@ -1,0 +1,22 @@
+{
+  "source": "data/markdown/YOUR-RULEBOOK_pages.md",
+  "output_dir": "docs/src/content/docs",
+  "mode": "zh_only",
+  "chapters": {
+    "example-section": {
+      "title": "Example Section",
+      "order": 1,
+      "files": {
+        "index": {
+          "title": "Example Chapter",
+          "description": "格式參考用佔位章節；執行 /init-doc 或 /chapter-split 後會被真實內容取代。",
+          "pages": [
+            1,
+            2
+          ],
+          "order": 0
+        }
+      }
+    }
+  }
+}
