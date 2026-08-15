@@ -1,6 +1,12 @@
 {
   "_meta": {
     "description": "風格決定記錄 - 翻譯用語選擇與原因",
-    "updated": ""
+    "updated": "2026-08-15T07:05:44+00:00"
+  },
+  "repository": {
+    "slug": "cairn-barebones-docs",
+    "visibility": "public",
+    "url": "https://github.com/wayne930242/cairn-barebones-docs",
+    "show_on_homepage": true
   }
 }

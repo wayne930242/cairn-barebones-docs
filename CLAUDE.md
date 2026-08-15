@@ -1,4 +1,4 @@
-# game-doc-template
+# 石堇：簡化版（Cairn: Barebones Edition）
 
 Convert PDF game rulebooks into a Traditional Chinese Markdown documentation site.
 

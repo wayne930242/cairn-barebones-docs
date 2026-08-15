@@ -10,7 +10,7 @@ import starlightAutoSidebar from 'starlight-auto-sidebar';
 
 const SITE_CONFIG = {
 	// 網站標題（顯示在導航列）
-	title: '遊戲規則文件',
+	title: '石堇：簡化版',
 	// 預設語言
 	defaultLocale: 'zh-TW',
 	localeLabel: '繁體中文',
