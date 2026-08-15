@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "風格決定記錄 - 翻譯用語選擇與原因",
-    "updated": "2026-08-15T08:14:00+00:00"
+    "updated": "2026-08-15T09:56:56+00:00"
   },
   "repository": {
     "slug": "cairn-barebones-docs",
@@ -100,5 +100,9 @@
   "codex_tier": {
     "decision": "enabled",
     "reason": "使用者選擇啟用 Codex 草稿分層以節省 Claude token；schema 無 codex_tier 專屬定義，暫用通用 decisionRecord 形狀繞過驗證錯誤（詳見 dogfood 發現 #14）"
+  },
+  "deployment": {
+    "target": "github-pages",
+    "base_path": "/cairn-barebones-docs"
   }
 }
