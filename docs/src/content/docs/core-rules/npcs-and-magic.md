@@ -5,59 +5,61 @@ sidebar:
   order: 1
 ---
 
-## Saves & Risk
+## 豁免（Save）與風險
 
-Saves
+### 豁免
 
-- • A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- • If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- • If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- 豁免是為了避開冒險選擇可能帶來的負面結果而進行的擲骰。角色擲 1d20，將結果與適用的屬性比較。若擲骰結果等於或低於該屬性，便算成功；否則便算失敗。擲出 1 必定成功，擲出 20 必定失敗。
+- 若兩名對手都試圖壓制對方，應由承受較大風險的一方進行豁免。
+- 若兩名角色需要共同採取行動，應由承受較大風險的一方進行豁免（通常是相關屬性較低的角色）。
 
-Die of Fate
+### 命運骰（Die of Fate）
 
-- • Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- • A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- 當事件結果不明，或想模擬隨機與機運的因素時，可以選擇擲 1d6。
+- 擲出 4 以上通常對玩家角色有利；擲出 3 以下通常代表玩家角色運氣不佳。
 
-## Non-Player Characters
+## 非玩家角色（NPC）
 
-Hirelings
+### 傭工（Hireling）
 
-- • Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.
-- • To create a hireling, choose an appropriate role from the Hirelings table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them equipment appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- • Alternatively, follow the Character Creation process but select the appropriate background, name, and gear for the character.
+- 冒險隊伍可以招募傭工，依靠他們獨特的技能、知識與訓練，協助進行遠征。
+- 要建立一名傭工，請從市集的傭工表中選擇適合的角色。每項屬性擲 3d6，HP 擲 1d6。依照其身分給予適當的裝備，再在角色特徵表上擲骰，進一步充實其設定。
+- 另一種方式是依照角色創建流程，但為該角色選擇適合的出身（Background）、姓名與裝備。
 
-Reactions
+### 反應（Reaction）
 
-• When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+當玩家角色遇見一名對隊伍的反應不明顯的非玩家角色時，守護人（Warden）可以擲 2d6，並查閱下表：
 
-Reactions 2 3-5 6-8 9-11 12 Hostile Wary Curious Kind Helpful
+| 骰值 | 結果 |
+| --- | --- |
+| 2 | 敵對 |
+| 3–5 | 警戒 |
+| 6–8 | 好奇 |
+| 9–11 | 友善 |
+| 12 | 樂於助人 |
 
-8
+## 魔法
 
-## Magic
+### 法術書（Spellbook）
 
-Spellbooks
+- 法術書收錄單一法術，並佔用一個物品格。法術書無法輕易抄錄或製作；它們通常是在陵墓、地城與宅邸等地點尋獲的。
+- 法術書有時會呈現異常的性質或限制，例如打開時散發惡臭或非人間的氣味、具有天生的智慧，或只有在月光下拿著時才能讀取。
+- 法術書會吸引那些覬覦其中奧術力量之人的注意，因此公開展示法術書被視為危險之舉。
 
-- • Spellbooks contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- • Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- • Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+### 施放法術
 
-Casting Spells
+- 任何人都可以雙手捧著法術書，大聲讀出其中內容來施放法術。接著必須將一點疲勞（Fatigue）加入物品欄。
+- 只要有時間且處於安全之中，玩家角色便能增強法術的效果（例如影響多個目標、提高法術力量等），而不需付出額外代價。
+- 若玩家角色處於匱乏或危險之中（例如戰鬥期間），守護人可以要求玩家角色進行一次 WIL 豁免，以避免施放法術帶來的不良影響。失敗的後果與預期效果的程度相當，可能導致增加疲勞、法術書毀損、受傷，甚至死亡。
 
-- • Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory.
-- • Given time and safety, PCs can enhance a spell’s impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost.
-- • If the PC is deprived or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+### 卷軸（Scroll）
 
-Scrolls
+卷軸與法術書相似，但：
 
-Scrolls are similar to Spellbooks, however:
+- 它們無足輕重。
+- 它們不會造成疲勞。
+- 使用一次後便會消失。
 
-- • They are petty.
-- • They do not cause Fatigue.
-- • They disappear after one use.
+### 遺物（Relic）
 
-Relics
-
-Relics are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a Recharge condition.
-
-9
+遺物是被灌注了魔法法術或力量的物品。它們不會造成疲勞。遺物通常有使用次數限制，也有充能（Recharge）條件。

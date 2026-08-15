@@ -5,58 +5,52 @@ sidebar:
   order: 0
 ---
 
-## Player Characters
+### 屬性
 
-Attributes
+玩家角色（PC）擁有三項屬性（Attribute）：
 
-Player Characters (PCs) have three Attributes:
+- 力量（STR）：用於需要體能的豁免（Save），例如抬起閘門、扳彎鐵條、抵抗毒素等。
+- 敏捷（DEX）：用於需要身手穩定、速度與反應力的豁免，例如閃避、攀爬、潛行、保持平衡等。
+- 意志（WIL）：用於說服、欺騙、盤問、威嚇、魅惑、挑釁、操控法術等豁免。
 
-- • Strength (STR): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- • Dexterity (DEX): Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- • Willpower (WIL): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+屬性不是對角色的全面描述。力量低的角色不一定弱不禁風；他們仍然可以嘗試抬起沉重的門，或在致命戰鬥中活下來！他們只是承受較高的風險。
 
-Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher.
+### 屬性損失
 
-Attribute Loss
+- 如果玩家角色在戰鬥之外受到傷害，應改為承受屬性傷害，通常是力量。
+- 如果玩家角色的力量降至 0，便會死亡。敏捷降至 0，便會癱瘓。意志降至 0，便會神智混亂。敏捷與意志完全損失時，角色將無法行動，直到透過長時間休息或非凡手段恢復為止。
 
-- • If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- • If a PC’s STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### 防護值
 
-Hit Protection
+- 防護值（HP）反映角色在戰鬥中避開傷害的能力。
+- 這項數值不代表角色的健康或耐受力，而且角色也不會長時間失去防護值。請參閱「治療與恢復」。
 
-- • Hit Protection (HP) reflects a character’s ability to avoid damage in combat.
-- • This measurement does not indicate a character’s health or fortitude, nor do they lose it for very long. See Healing & Recovery.
+### 治療與恢復
 
-Healing & Recovery
+- 休息片刻並喝點水，就能恢復失去的防護值，但這可能會讓隊伍暴露在危險之中。受到重創（Critical Damage）的角色可以用繃帶穩定傷勢。
+- 屬性損失（參見「重創」）通常可透過休息一週恢復，並由治療者或其他合適的專業人士協助。
+- 有些治療服務是免費的，但魔法或更快速的恢復方式可能需要付出代價。
 
-- • Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- • Attribute loss (see Critical Damage) can usually be restored with a week’s rest, facilitated by a healer or other appropriate source of expertise.
-- • Some healing services are free, while magical or more expedient means of recovery may come at a cost.
+### 護甲
 
-6
+- 計算防護值所受的傷害前，先從傷害擲骰結果中扣除目標的護甲（Armor）值。
+- 盾牌與類似護甲會提供額外防禦（例如 +1 護甲），但只有在持用或穿戴該物品時才有效。有些物品也可能依據遊戲敘事提供額外益處。
+- 玩家角色、非玩家角色或怪物的護甲不得超過 3。
 
-Armor
+### 物品欄
 
-- • Before calculating damage to HP, subtract the target’s Armor value from the result of damage rolls.
-- • Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- • A PC, NPC, or monster cannot have more than 3 Armor.
+- 角色總共有十格物品欄，但如果沒有袋子、背包、馬匹、推車等協助，就只能舒適地攜帶四或五件物品。
+- 每名玩家角色起始時都有一個背包，最多可容納六格物品或疲勞（Fatigue）。推車（必須用雙手拉動）、馬匹或騾子，都能大幅增加玩家角色在冒險中能帶走的物資。也可以付錢雇用傭工搬運裝備。
+- 物品欄是抽象概念，完全取決於守護人（Warden）依據遊戲敘事作出的裁定。攜帶完整物品欄（也就是填滿全部 10 格）的人，其防護值會降至 0。角色不能填滿超過十格。
 
-Inventory
+### 物品欄格
 
-- • Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- • Each PC starts with a Backpack that can hold up to six slots of items or Fatigue. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. Hirelings can also be paid to carry equipment.
-- • Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- 除非另有說明，大多數物品佔用一格。
+- 零碎物品不佔用任何格。笨重物品佔用兩格。
+- 價值低於 100 金幣的錢袋屬於零碎物品，不佔用任何格。
 
-Inventory Slots
+### 匱乏與疲勞
 
-- • Most items take up one slot unless otherwise indicated.
-- • Petty items do not take up any slots. Bulky items take up two slots.
-- • A bag of coins worth less than 100gp is petty and does not occupy a slot.
-
-Deprivation & Fatigue
-
-- • A PC that lacks a crucial need (such as food or rest) is Deprived. Anyone Deprived for more than a day adds Fatigue to their inventory, one for each day. A Deprived PC cannot recover HP, Attributes, or item slots from Fatigue.
-- • A PC may also be forced to add Fatigue after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- • If a character is forced to add Fatigue to their inventory but they have no free slots, they must drop an item from their inventory.
-
-7
+- 缺乏關鍵需求（例如食物或休息）的玩家角色會陷入匱乏。任何陷入匱乏超過一天的人，其物品欄每天增加一點疲勞。陷入匱乏的玩家角色無法恢復防護值、屬性，也無法恢復因疲勞佔用的物品欄格。
+- 施放法術後，或遊戲敘事中發生某些事件時，玩家角色也可能被迫增加疲勞。每點疲勞佔用一格，並持續到玩家角色得以休養恢復為止（例如在安全地點睡滿一晚）。
+- 如果角色被迫在物品欄中增加疲勞，但沒有空格，就必須從物品欄中丟下一件物品。

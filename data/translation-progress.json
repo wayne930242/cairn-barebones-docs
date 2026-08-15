@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-08-15",
     "total_chapters": 13,
-    "completed": 0
+    "completed": 5
   },
   "chapters": [
     {
@@ -11,7 +11,7 @@
       "title": "總覽與原則",
       "file": "docs/src/content/docs/overview-principles/index.md",
       "source_pages": "3-5",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -20,7 +20,7 @@
       "title": "玩家角色",
       "file": "docs/src/content/docs/core-rules/player-characters.md",
       "source_pages": "6-7",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -29,7 +29,7 @@
       "title": "豁免、非玩家角色與魔法",
       "file": "docs/src/content/docs/core-rules/npcs-and-magic.md",
       "source_pages": "8-9",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -38,7 +38,7 @@
       "title": "戰鬥",
       "file": "docs/src/content/docs/core-rules/combat.md",
       "source_pages": "10-12",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -47,7 +47,7 @@
       "title": "地城探索",
       "file": "docs/src/content/docs/procedures/dungeon-exploration.md",
       "source_pages": "13-15",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },

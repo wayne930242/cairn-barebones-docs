@@ -5,100 +5,82 @@ sidebar:
   order: 0
 ---
 
-## Dungeon Exploration
+### 基本規則
 
-The Basics
+- • 地城探索循環（見下文）由一連串探索回合（Turn）、行動（Actions）及其後果組成。
+- • 在自己的探索回合中，角色可以移動相當於火炬光照範圍邊緣的距離（約 40 英尺），並執行一項行動。玩家可以用自己的行動，最多移動該距離的三倍，但這會提高觸發地城事件表擲骰的機率。
+- • 守護人（Warden）應主動且不需玩家付出任何代價地提供區域及其危險的明顯資訊。快速或不加警戒地移動，可能提高遇到遊蕩怪物、觸發陷阱，或在地城事件表上擲骰的機率。
 
-- • The dungeon exploration cycle (see below) is divided into a series of Turns, Actions, and their consequences.
-- • On their turn, a character can move a distance equal to their torchlight’s perimeter (about 40ft), and perform one action. Players can use their action to move up to three times that distance though that will increase the chance of triggering a roll on the Dungeon Events table.
-- • The Warden should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the Dungeon Events table.
+雖然這裡使用「地城」一詞，但它可以指任何危險場所（宅邸、農舍、冒險地點等）。
 
-Although the term “dungeon” is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+### 地城探索循環
 
-Dungeon Exploration Cycle
+- 1. 守護人描述隊伍周遭環境，以及任何迫在眉睫的危險（戰鬥、陷阱、突襲等）。接著，玩家宣告角色預定的移動與行動。
+- 2. 守護人同時處理每個角色的行動，以及已經進行中的行動。請記住，當守護人無法確定時，命運骰（Die of Fate）可能是很有用的工具！
+- 3. 玩家記錄任何資源損失與新狀態（例如物品使用、匱乏等）。接著循環重新開始。適當時，守護人應在地城事件表上擲骰。解讀結果時，請運用常識！
 
-- 1. The Warden describes the party’s surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character’s intended movements and actions.
-- 2. The Warden resolves the actions of each character simultaneously, along with any actions that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-- 3. The players record any loss of resources and any new conditions (i.e. item use, deprivation, etc). The cycle then begins again. If appropriate, the Warden should roll on the Dungeon Events table. Keep common sense in mind when interpreting the results!
+### 地城事件
 
-Dungeon Events
+探索地城永遠充滿危險。你必須時刻權衡時間，以及驚醒當地居民、遭遇自然危害或更糟情況的風險。
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location’s denizens, natural hazards, and worse.
+當隊伍：
 
-When the party:
+- • 在同一個房間或地點進行超過一個地城循環
+- • 快速或漫不經心地穿過房間
+- • 進入新的區域、樓層或地帶
+- • 製造巨大的聲響
 
-- • Spends more than one dungeon cycle in a single room or location
-- • Moves quickly or haphazardly through a room
-- • Moves into a new area, level, or zone
-- • Creates a loud disturbance
+在下表擲骰：1d6 地城事件表
 
-13
+| 骰值 | 結果 |
+| --- | --- |
+| 1 | 遭遇：在遭遇表上擲骰。可能具有敵意。（見反應。） |
+| 2 | 徵兆：發現線索、蹤跡、足跡、廢棄巢穴、氣味、受害者等。 |
+| 3 | 環境：周遭環境發生變化或惡化。水位上升、天花板崩塌、儀式即將完成等。 |
+| 4 | 損失：火炬熄滅、持續中的法術失效等。隊伍必須先處理這項影響，才能繼續前進。 |
+| 5 | 力竭：隊伍必須休息（會在此表上再次擲骰）、增加一點疲勞，或消耗一份口糧。 |
+| 6 | 寂靜：隊伍暫時不受打擾，也很安全。 |
 
-Roll on the table below: 1d6 Dungeon Events Table
+## 行動
 
-- 1 Encounter Roll on an encounter table. Possibly hostile. (See Reactions.)
-- 2 Sign
+- • 行動是任何非被動活動，例如搜尋陷阱、強行打開門、聆聽危險、解除陷阱、與敵人交戰、施放法術、躲避陷阱、逃跑、休息等。
+- • 某些行動有特殊規則（見下文），其他行動則可能需要數個探索回合才能完成。
+- • 喧鬧或引人注意的行動，也可能觸發與地城居民的遭遇。
 
-A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.
+### 搜尋
 
-- 3 Environment
+- • 角色可以花一個探索回合，徹底搜尋區域中的一件物品或一個地點，找出任何相關的隱藏寶藏、陷阱、密門等。
+- • 較大的房間，以及困難或複雜的地城地形，可能需要數個探索回合才能妥善搜尋。
+- • 先搜尋房間，是探索地城較安全的方式，但代價很高：時間。
 
-Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.
+### 休息
 
-- 4 Loss
+- • 角色可以花一個探索回合休息，以恢復全部防護值（HP）。
+- • 休息需要光源與安全地點。當下或即將發生的危險會使休息無法進行。
+- • 休息不會消除疲勞，因為在地城中不可能安全地紮營（Make Camp）。
 
-Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on.
+## 恐慌
 
-- 5 Exhaustion
+- • 被敵人包圍、陷入黑暗，或面對自己最大的恐懼時，角色可能陷入恐慌。通常需要進行一次意志豁免（WIL save），以避免失去控制並陷入恐慌。
+- • 陷入恐慌的角色必須在自己回合中，以一項行動進行意志豁免，才能克服此狀態。
+- • 陷入恐慌的角色擁有 0 防護值，不會在戰鬥第一回合行動，且所有攻擊都會受阻。
 
-The party must rest (triggering another roll on this table), add a Fatigue, or consume a ration.
+## 地城要素
 
-- 6 Quiet The party is left alone (and safe) for the time being.
+### 光線
 
-## Actions
+- • 火炬與其他放射狀光源可以照亮地城內 40 英尺的範圍，超出該範圍只能看見物體的朦朧輪廓。火炬會持續燃燒，直到角色或環境將其熄滅。
+- • 火炬可以點燃 3 次，之後便會永久劣化。每罐油可以重新點燃提燈 6 次，但提燈需要更多裝備欄位。
+- • 沒有光源的角色可能陷入恐慌，直到問題獲得解決。
 
-- • Actions are any non-passive activities, such as searching for traps, forcing open a door, listening for danger, disarming a trap, engaging an enemy in combat, casting a spell, dodging a trap, running away, resting, etc.
-- • Some actions have special rules (see below), while others may take multiple turns to complete.
-- • Loud or noticeable actions may also trigger an encounter with the dungeon’s denizens.
+### 門
 
-Searching
+- • 門與入口可能上鎖、卡住，或完全被堵住。角色可以利用手邊資源（尖刺、膠水）或純粹的力量，嘗試強行打開門（或把門楔住）。
+- • 隊伍的行進順序決定門後事物會對誰造成最大的影響。
+- • 角色可以透過仔細觀察（聆聽、聞嗅等），從附近的門與牆壁另一側察覺生命跡象及其他危險。
 
-- • A character can spend a turn performing an exhaustive search of one object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc.
-- • Larger rooms and difficult or complex dungeon terrain may take a few turns to properly search.
-- • Searching a room first is a safer way to explore the dungeon, but it has a steep cost: time.
+### 陷阱
 
-Resting
-
-- • A character can spend a turn resting to restore all HP.
-- • A light source and a safe location are required to rest. Present or oncoming danger makes rest impossible.
-- • Resting does not restore Fatigue, as it is impossible to safely Make Camp in a dungeon.
-
-14
-
-## Panic
-
-- • A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience panic. A WIL save is typically required to avoid losing control and becoming panicked.
-- • A panicked character must make a WIL save to overcome their condition as an action on their turn.
-- • A panicked character has 0 HP, does not act in the first round of combat, and all of their attacks are impaired.
-
-## Dungeon Elements
-
-Light
-
-- • Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- • A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- • Characters without a light source may suffer from panic until their situation is remedied.
-
-Doors
-
-- • Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability.
-- • The party’s marching order determines who is most impacted by whatever lies beyond a door.
-- • A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
-
-Traps
-
-- • A cautious character should be presented with any and all information that would allow them the opportunity to avoid springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- • Traps can usually be detected by carefully searching a room.
-- • Damage from traps is taken from Attributes (usually STR or DEX) and not from HP. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
-
-15
+- • 對於保持警戒的角色，應提供所有能讓他們有機會避免觸發陷阱的資訊。毫無察覺的角色會根據敘事內容觸發陷阱；否則，觸發機率為六分之二。
+- • 通常可以透過仔細搜尋房間來發現陷阱。
+- • 陷阱造成的傷害會扣除屬性（通常是力量 STR 或敏捷 DEX），而非防護值。護甲可以降低傷害，但只有在適用時才行（例如，盾牌無法降低有毒氣體造成的傷害）。

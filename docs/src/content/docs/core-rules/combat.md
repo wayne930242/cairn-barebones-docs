@@ -5,81 +5,73 @@ sidebar:
   order: 2
 ---
 
-## Combat
+### 戰鬥回合
 
-Rounds
+- • 一個戰鬥回合（Round）大約相當於遊戲內的十秒。雙方輪流行動。每回合開始時，先由任何能夠行動的玩家角色（PC）行動，接著才是對手。雙方的行動結果會同時發生。
+- • 在戰鬥的第一回合，每名玩家角色都必須進行一次敏捷（DEX）豁免（Save），才能採取行動。特殊情況、能力、物品或技能可能免除這項要求。豁免失敗的玩家角色本回合會失去行動機會。
+- • 接著由對手行動，第一回合便告結束。下一回合開始時，先由玩家角色行動，再由對手行動，如此持續，直到一方戰敗或逃離，戰鬥才算結束。
 
-- • A Round is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. The result of each side’s actions occur simultaneously.
-- • During the first round of combat, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save lose their turn for this round.
-- • Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+### 行動
 
-Actions
+角色在自己的回合中，可以移動最多 40 英尺，並至多採取一個行動。這個行動可以是施放法術、攻擊、再次移動，或其他合理的行動。每回合中，玩家角色必須在擲骰前宣告自己要做什麼。如果角色嘗試進行危險行動，守護人（Warden）會要求適用的玩家角色或非玩家角色（NPC）進行豁免。
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+### 攻擊與傷害
 
-Attacking & Damage
+- • 攻擊者擲出武器骰，減去目標的護甲，再將剩餘數值從對手的 HP 扣除。戰鬥中的攻擊會自動命中。
+- • 如果有多名攻擊者以同一名敵人為目標，擲出所有傷害骰，並只保留其中最高的結果。所有行動都必須先宣告，之後才會結算。
+- • 如果一次攻擊會讓玩家角色的 HP 恰好降至 0，請查閱傷疤（Scars）表，了解該角色受到的獨特影響。
 
-- • The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. Attacks in combat automatically hit.
-- • If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- • If an attack would take a PC’s HP exactly to 0, refer to the Scars table to see how they are uniquely impacted.
+### 攻擊修正
 
-Attack Modifiers
+- • 如果角色處於不利位置戰鬥（例如隔著掩護，或雙手被綁住），攻擊會受阻（Impaired）。無論攻擊原本使用什麼傷害骰，攻擊者都必須改擲 1d4 傷害。徒手攻擊的傷害一律為 d4。
+- • 如果角色處於有利位置戰鬥（例如對付無法反抗的敵人，或憑藉大膽的身法），攻擊會強化（Enhanced），攻擊者可以改擲 1d12 傷害，而非通常使用的骰子。
+- • 帶有爆發（Blast）品質的攻擊會影響標示範圍內的所有目標，並針對每名受影響的角色分別擲骰。這可以是爆炸、龍息，或隕石撞擊等效果。如果不確定能影響多少目標，就擲出相關的傷害骰，骰面結果就是受影響的目標數量。
+- • 如果同時使用兩把武器攻擊，擲出兩顆傷害骰，並只保留其中最高的結果（以加號表示，例如 d8+d8）。
 
-- • If fighting from a position of weakness (such as through cover or with bound hands), the attack is Impaired, and the attacker must roll 1d4 damage regardless of the attack’s damage die. Unarmed attacks always do d4 damage.
-- • If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is Enhanced, allowing the attacker to roll 1d12 damage instead of their normal die.
-- • Attacks with the Blast quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
-- • If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+### 重創
 
-10
+- • 讓目標 HP 降至零以下的傷害，會將超過 0 的剩餘傷害從目標的力量（STR）扣除。接著，目標必須立刻使用新的 STR 數值進行一次 STR 豁免，以避免受到重創（Critical Damage）。豁免成功時，目標仍可繼續戰鬥（儘管 STR 數值已降低），而且每次再次受到傷害時，都必須繼續進行重創豁免。
+- • 受到重創的玩家角色除了虛弱地爬行、竭力求生之外，什麼也做不了。如果獲得援助（例如繃帶），就能穩定下來。若置之不理，會在一小時內死亡。非玩家角色與怪物若重創豁免失敗，依守護人的裁量視為死亡。此外，某些敵人會有特殊能力或效果，在目標重創豁免失敗時觸發。
 
-Critical Damage
+### 角色死亡
 
-- • Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- • Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the Warden’s discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+• 角色死亡時，玩家應建立新角色，或接管一名傭工（Hireling）。新角色會立刻加入隊伍，以縮短等待時間。
 
-Character Death
+### 部隊
 
-• When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- • 一起作戰的大型同類戰鬥者群體，會視為單一部隊（Detachment）。部隊受到重創時，會潰敗或大幅削弱。當其 STR 降至 0 時，部隊便會被摧毀。
+- • 個人對部隊的攻擊會受阻（爆發傷害除外）。部隊對個人的攻擊會強化，並造成爆發傷害。
 
-Detachments
+### 撤退
 
-- • Large groups of similar combatants fighting together are treated as a single Detachment. When a detachment takes Critical Damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- • Attacks against detachments by individuals are impaired (excluding blast damage). Attacks against individuals by detachments are enhanced and deal blast damage.
+• 從危急情勢中逃跑時，一律需要成功進行一次 DEX 豁免，並且要有安全的目的地可供逃往。
 
-Retreat
+### 士氣
 
-• Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- • 敵人在第一次出現傷亡，以及人數損失過半時，都必須通過一次意志（WIL）豁免，以避免逃跑。
+- • 某些群體可以使用領袖的 WIL 代替自己的數值。孤立的敵人在 HP 降至 0 時，必須進行豁免。
+- • 士氣不影響玩家角色。
 
-Morale
+### 遠程攻擊
 
-- • Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number.
-- • Some groups may use their leader’s WIL in place of their own. Lone foes must save when they’re reduced to 0 HP.
-- • Morale does not affect PCs.
+- • 遠程武器可以指定任何近到能看見對方眼白的敵人為目標。攻擊特別遙遠的目標時，會受阻。
+- • 除非另有指定，否則不追蹤彈藥數量。
 
-Ranged Attacks
+### 傷疤
 
-- • Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are Impaired.
-- • Ammunition is not tracked unless otherwise specified.
+如果一次攻擊造成的傷害會讓玩家角色的 HP 恰好降至 0，請根據該次攻擊損失的 HP 數量，查閱下表中的結果。例如，玩家角色的 HP 從 3 降至 0，就應查閱第 3 項（重擊倒地）。
 
-11
-
-Scars
-
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the amount of HP lost in the attack. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped).
-
-HP Lost Result
-
-- 1 Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.
-- 2 Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.
-- 3 Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.
-- 4 Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.
-- 5 Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.
-- 6 Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.
-- 7 Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.
-- 8 Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.
-- 9 Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.
-- 10 Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.
-- 11 Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.
-- 12 Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result.
-
-12
+| 損失的 HP | 結果 |
+| --- | --- |
+| 1 | 永久傷疤：擲 1d6。1：頸部；2：雙手；3：眼睛；4：胸部；5：雙腿；6：耳朵。再擲 1d6。如果結果高於你的最大 HP，就採用新的結果。 |
+| 2 | 震撼打擊：你頭暈目眩、心神動搖。描述你如何重新集中精神。擲 1d6。如果結果高於你的最大 HP，就採用新的結果。 |
+| 3 | 重擊倒地：你被打飛，面朝下重重摔落，喘不過氣。直到休息數小時前，你都處於匱乏狀態。之後擲 1d6，將該數值加到你的最大 HP。 |
+| 4 | 肢體骨折：擲 1d6。1–2：腿；3–4：手臂；5：肋骨；6：頭骨。傷勢癒合後，擲 2d6。如果結果高於你的最大 HP，就採用新的結果。 |
+| 5 | 染病：你受到噁心且令人不適的感染。康復後，擲 2d6。如果結果高於你的最大 HP，就採用新的結果。 |
+| 6 | 重整頭部創傷：擲 1d6。1–2：STR；3–4：DEX；5–6：WIL。擲 3d6。如果結果高於你目前的屬性，就採用新的結果。 |
+| 7 | 腿筋受傷：在得到專業救治並休息前，你幾乎無法移動。康復後，擲 3d6。如果結果高於你的最大 DEX，就採用新的結果。 |
+| 8 | 失聰：在獲得非凡的援助前，你什麼也聽不見。無論如何，都要進行一次 WIL 豁免。若成功，將你的最大 WIL 提高 1d4。 |
+| 9 | 腦內重組：你心靈深處某個隱藏的部分被撞鬆了。擲 3d6。如果結果高於你的最大 WIL，就採用新的結果。 |
+| 10 | 撕裂：某個肢體被扯下、受損，或變得毫無用處。（守護人會告訴你是哪一個。）接著進行一次 WIL 豁免。若成功，將你的最大 WIL 提高 1d6。 |
+| 11 | 致命傷：你處於匱乏狀態，無法行動。除非獲得治療，否則會在一小時內死亡。康復後，擲 2d6，將新的結果作為你的最大 HP。 |
+| 12 | 命定死劫：死亡似乎近在咫尺，但你不知怎地活了下來。如果你下一次進行重創豁免時失敗，就會悲慘地死去。若成功，擲 3d6。如果結果高於你的最大 HP，就採用新的結果。 |
