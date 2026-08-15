@@ -5,77 +5,69 @@ sidebar:
   order: 2
 ---
 
-## Downtime
+遊戲場次之間，玩家可以進行各種活動，例如調查、追查線索、提升技能或建立關係。玩家角色（Player Character，PC）一次只能進行一項空閒行動（Downtime Action）。角色處於不安全的環境或恢復期間時，不能進行這些行動。如果某項行動會危及角色安全，角色也不能進行該行動。
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one Downtime Action at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+## 里程碑
 
-Milestones
+對於需要多個步驟的活動，守護人（Warden）會指定 1～5 個里程碑（Milestone），供玩家追蹤進度。每個里程碑都代表一項完整、無須互動的任務。守護人可以提出不同的策略來達成目標，而每種策略都有各自的里程碑。隨著遊戲事件逐步展開，守護人也可以加入新的里程碑，或捨棄現有的里程碑。
 
-For activities requiring multiple steps, the Warden assigns 1-5 Milestones for players to track progress. Each Milestone represents a comprehensive, non-interactive task. The Warden may present different strategies to achieve these goals, each with distinct Milestones. Depending on the unfolding events in the game, the Warden is also empowered to introduce new Milestones or discard existing ones.
+## 代價
 
-Costs
+玩家角色可以花費一次空閒行動並支付相應的代價（Cost），完成單一里程碑。如果角色無法支付代價，就可能必須另想辦法達成目標。以下是一些代價的例子：
 
-PCs can complete individual Milestones by taking a Downtime Action and paying its respective Cost. If a character is unable to pay the Cost, they may have to find some other way to achieve their goal. A few examples of Cost:
+- 金幣：直接從角色的物品欄支付金幣。
+- 資源：非金錢形式的代價，例如材料、特定的常見物品等。
+- 名聲：押上角色的聲望、個性、影響力、社交關係等。
+- 損失：獻出某件特定且獨一無二的事物，例如一根手指、一個靈魂或一件遺物（Relic）等。
 
-- • Gold: Direct payment of gold from a character’s inventory.
-- • Resources: Non-monetary costs such as material goods, specific common items, and so on.
-- • Reputation: Betting on a character’s renown, personality, presence, social connections, etc.
-- • Loss: Offering something specific and unique. A finger, a soul, a Relic, etc.
+某些代價可以透過角色的技能、人脈或意志力降低或免除。例如，玩家角色可能早已累積足夠的名聲，因此得以進入一所聲名卓著的機構，代價也就免除了。另一方面，另一名角色可能沒有這麼幸運，只能依靠自己的個人魅力。此時，守護人應該說明風險（例如永久禁止進入、名聲受損等）。接著，玩家角色進行一次意志（Willpower，WIL）豁免（Save）；若成功，代價就會降低，或完全免除。
 
-Some Costs can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the cost is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a WIL save; on a success, the cost is either reduced or avoided entirely.
+## 空閒行動
 
-21
+以下活動代表玩家可以選擇的幾種常見空閒行動。守護人也可以依照遊戲進行的需要，自行設計特殊行動。
 
-## Downtime Actions
+## 調查
 
-The following activities represent some of the most common Downtime Actions a player can choose. The Warden can also create custom actions based on the needs of play.
+玩家角色調查一個問題，例如某段失傳或遭遺忘的知識、失落物品的位置、重要非玩家角色（NPC）的下落等。若要進行此行動，玩家必須先清楚表述想解答的問題，並在遊戲世界中找到角色能夠接觸的情報來源（Source）。如果玩家角色沒有情報來源，就可以花費一次空閒行動嘗試尋找一個。但不能保證一定成功。提出問題並找到合適的情報來源後，守護人應該提供相關的里程碑與代價。
 
-## Research
+### 問題
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they’d like to answer and a Source of knowledge in the game world that their character can interact with. If the PC does not have a Source, then they can spend a Downtime Action trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate Source has been identified, the Warden should provide any Milestones and associated Costs.
+一如往常，問題必須源自遊戲過程中發生的經歷。例子如下：
 
-Questions
+- •「東尼普爾失落神殿在哪裡？」
+- •「財富城裡有誰可能知道如何撬開一座古老的金庫？」
+- •「我在哪裡可以找到治癒捲髮病的方法？」
 
-As always, the question must come from an experience that occurred during play. Examples:
+### 情報來源
 
-- • “Where is the Lost Temple of East Nipoor?”
-- • “Who in Fortune City might know how to crack an ancient vault?”
-- • “Where can I find the cure to curly sickness?”
+情報來源是持有角色所尋求之部分或完整答案的人物、地點、陣營（Faction）或實體。情報來源可以是非玩家角色、陣營、靈體，甚至其他玩家角色。
 
-Sources
+例子如下：
 
-A Source is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs.
+- 嘴巴克爾是商人聯盟的常用聯絡人。雖然角色與這個陣營關係極佳，但若要請他協助進行非法活動，可能得付出高昂代價。
+- 一名住在刀刃森林深處的木野人。隊伍曾在早先的一次遠征中遇見他，而那次會面並不愉快。不過據說，他知道每一種草藥及其療效。
+- 木偶神殿是一支遊牧馬戲團，走遍已知與未知的土地。火雨降下時，就連森林中的生物也準備逃離家園，隊伍曾協助其中一名成員。如果有人聽說過遭遺忘的地方，那一定就是他們。
 
-Examples:
+## 訓練
 
-- • Kewr the Mouth, a frequent contact for the Conclave of Merchants. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- • A Woodwose who makes his home deep in the Forest of Knives. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- • The Temple of Puppets, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the Rain of Fire, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it’s them.
+角色可以透過物品或能力提升自己的技能，並在敘事或機制上產生明確成果。角色可能想用某種特定武器造成更高傷害、降低在惡劣天候中迷路的機率，或學會閱讀古代語言。
 
-## Training
+玩家角色可以花費多次空閒行動，使用特定武器進行對練，一週一週地提升技能。也可能需要前往遙遠賢者的住所，透過短暫但密集的研習提升自己。
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or
+玩家必須精確描述想提升的能力，以及可以向其學習的師傅（Master）。當然，角色提升自己的動機也應該源自遊戲中的經歷。守護人應該提供相關的里程碑與代價。
 
-22
+例子如下：
 
-learning to read the languages of the ancients. A PC might spend multiple Downtime Actions sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+- 雙手格擋：戰鬥時若有一隻手空著，玩家角色的生命值（HP）暫時增加 1d4。隊伍雇用了一名來自隕坑之地的傭工；那裡的戰士特別重視閃避敵人的攻擊。她同意訓練任何能在徒手格鬥中擊敗她的人。
+- 草藥學：有適當的材料時，玩家角色可以透過一次空閒行動製作治療藥膏（恢復 4 點力量（STR））。一名玩家角色曾在翠綠林間接受年長草藥師的照顧，於是受傷的角色請求學習療癒技藝。師傅同意了，但要求角色先收集三種稀有草藥，訓練才能開始。
+- 鱒魚大師：進行補給行動（Supply Action）時，在寒冷淡水水源附近收集的口糧（Rations）會增加一個階段（例如 1d4 變成 1d6）。隊伍曾護送一名受困於惡名昭彰的銀色荒原的博物學家，安全返回城市。為表謝意，她願意訓練一名玩家角色辨認並捕捉一種常見、出沒於寒冷水域的湖魚。
 
-The player must describe precisely what they’d like to improve and a Master whom they might train with. And of course, the character’s inspiration to improve should come from an experience in play. The Warden should provide any Milestones and associated Costs.
+## 增進羈絆
 
-Examples:
+角色在遊戲世界中培養與某個非玩家角色或陣營的關係。首先，角色必須確定想增進關係的對象，以及具體意圖（例如建立信任、修復友誼、尋求加入某個陣營、締結同盟等）。接著，守護人會提供具體的做法（以里程碑與代價描述），讓玩家角色可以藉此推進關係。每完成一個里程碑，守護人就描述玩家角色與對方的關係如何成長或改變。
 
-- • The Two-Handed Parry: When fighting with one hand free, a PC’s HP temporarily increases by 1d4. The party took on a hireling from the Cratered Lands, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- • Herbology: Given proper ingredients, a PC can create a Healing Salve (restores 4 STR) as a Downtime Action. After receiving care from an elderly herbalist in the Verdant Glades, the wounded PC asked to be trained in the healing arts. The Master has agreed, but asked that they collect three rare herbs before training can begin.
-- • Troutmaster: When taking the Supply Action, Rations gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful Silver Wastes safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+例子如下：
 
-Strengthening Ties
-
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific intent (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The Warden then provides concrete measures (described as Milestones and Costs) that the PC can undertake to advance the relationship. With each completed Milestone, the Warden describes how the PC’s relationship has grown or changed.
-
-Examples:
-
-- • After returning from an unsuccessful delve into the Roots, a PC discovers that they’d unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret.
-- • During a play session, a PC becomes friendly with an agent of the Order of the Helm. Impressed by the Order’s values, the PC asks what the requirements are to join.
-- • An agent for a powerful faction dies during the Battle of Frogs while under the party’s care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
-
-23
+- 玩家角色從一次未成功深入根部的探索返回後，發現自己在不知情的情況下帶回了一名躲藏者：一隻才剛孵化、沒有眼睛的吞噬者。他們決定收留這隻生物，並秘密訓練牠。
+- 在一次遊戲過程中，玩家角色與頭盔教團的一名特使成為朋友。玩家角色對教團的價值觀印象深刻，便詢問加入教團需要哪些條件。
+- 一個強大陣營的特使在蛙之戰中、受到隊伍照料時死亡。如今，肇事者希望予以補償，讓隊伍能再次替該陣營執行任務。

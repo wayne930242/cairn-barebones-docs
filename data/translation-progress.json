@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-08-15",
     "total_chapters": 13,
-    "completed": 5
+    "completed": 13
   },
   "chapters": [
     {
@@ -56,7 +56,7 @@
       "title": "荒野探索",
       "file": "docs/src/content/docs/procedures/wilderness-exploration.md",
       "source_pages": "16-20",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -65,7 +65,7 @@
       "title": "空閒期",
       "file": "docs/src/content/docs/procedures/downtime.md",
       "source_pages": "21-23",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -74,7 +74,7 @@
       "title": "基礎",
       "file": "docs/src/content/docs/character-creation/basics.md",
       "source_pages": "24-27",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -83,7 +83,7 @@
       "title": "特徵與出身",
       "file": "docs/src/content/docs/character-creation/traits.md",
       "source_pages": "28-32",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -92,7 +92,7 @@
       "title": "護甲與武器",
       "file": "docs/src/content/docs/character-creation/armor-weapons.md",
       "source_pages": "33-35",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -101,7 +101,7 @@
       "title": "裝備包",
       "file": "docs/src/content/docs/gear-packages/index.md",
       "source_pages": "36-36",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -110,7 +110,7 @@
       "title": "市集",
       "file": "docs/src/content/docs/marketplace/index.md",
       "source_pages": "37-39",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     },
@@ -119,7 +119,7 @@
       "title": "法術書",
       "file": "docs/src/content/docs/spellbooks/index.md",
       "source_pages": "40-46",
-      "status": "not_started",
+      "status": "completed",
       "notes": "",
       "source": "data/markdown/Cairn_Barebones_Edition_pages.md"
     }

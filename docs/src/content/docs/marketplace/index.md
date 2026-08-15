@@ -5,80 +5,117 @@ sidebar:
   order: 0
 ---
 
-## Marketplace
+所有價格均以金幣計算。
 
-All prices are in gold pieces
+## 護甲
 
-Armor
+| 物品 | 價格 |
+| --- | ---: |
+| 盾牌（+1 護甲） | 10 |
+| 頭盔（+1 護甲） | 10 |
+| 絎縫甲（+1 護甲） | 15 |
+| 軟甲（1 護甲，笨重） | 20 |
+| 鎖子甲（2 護甲，笨重） | 40 |
+| 板甲（3 護甲，笨重） | 60 |
 
-Shield (+1 Armor) 10 Helmet (+1 Armor) 10 Gambeson (+1 Armor) 15 Brigandine (1 Armor, bulky) 20 Chainmail (2 Armor, bulky) 40 Plate (3 Armor, bulky) 60
+## 武器
 
-Weapons
+| 物品 | 價格 |
+| --- | ---: |
+| 匕首、棍棒、鐮刀、法杖等（d6 傷害） | 5 |
+| 長矛、劍、釘頭錘、斧、鏈枷等（d8 傷害） | 10 |
+| 戟、戰鎚、長劍等（d10 傷害，笨重） | 20 |
+| 投石索（d6 傷害） | 5 |
+| 弓（d6 傷害，笨重） | 20 |
+| 弩（d8 傷害，笨重） | 30 |
 
-Dagger, Cudgel, Sickle, Staff, etc. (d6 damage) 5 Spear, Sword, Mace, Axe, Flail, etc. (d8 damage) 10 Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky) 20 Sling (d6 damage) 5 Bow (d6 damage, bulky) 20 Crossbow (d8 damage, bulky) 30
+## 交通工具
 
-Transport
+| 物品 | 價格 |
+| --- | ---: |
+| 手推車（+4 格，笨重） | 30 |
+| 貨車（+8 格，緩慢） | 200 |
+| 馬（+4 格） | 75 |
+| 騾（+6 格，緩慢） | 30 |
+| 馬車座位 | 5 |
+| 船票 | 10 |
 
-Cart (+4 slots, bulky) 30 Wagon (+8 slots, slow) 200 Horse (+4 slots) 75 Mule (+6 slots, slow) 30 Carriage Seat 5 Ship’s Passage 10
+## 住宿與恢復
 
-37
+| 物品 | 價格 |
+| --- | ---: |
+| 食宿（每晚） | 10 |
+| 私人房間與食宿（可容納 4 人） | 35 |
+| 馬廄與飼料（每晚） | 5 |
+| 醫療治療 | 50 |
+| 口糧（3 次使用） | 10 |
+| 動物飼料（3 次使用，笨重） | 5 |
 
-Upkeep & Recovery
+## 傭工
 
-Room & Board (per night) 10 Private Room & Board (fits 4) 35 Stable & Feed (per night) 5 Medical Healing 50 Rations (3 uses) 10 Animal Feed (3 uses, bulky) 5
+| 職業 | 價格 |
+| --- | ---: |
+| 鍊金術師 | 30 |
+| 馴獸師 | 5 |
+| 鐵匠 | 15 |
+| 保鏢 | 10 |
+| 當地嚮導 | 5 |
+| 開鎖工 | 10 |
+| 航海士 | 10 |
+| 水手 | 5 |
+| 學者 | 20 |
+| 追蹤者 | 5 |
+| 捕獸師 | 5 |
+| 老練保鏢 | 20 |
 
-Hirelings
+## 裝備
 
-Alchemist 30 Animal Handler 5 Blacksmith 15 Bodyguard 10 Local Guide 5 Lockpick 10 Navigator 10 Sailor 5 Scholar 20 Tracker 5 Trapper 5 Veteran Bodyguard 20
-
-38
-
-Gear
-
-Air Bladder 5 Antitoxin 20 Bandages (3 uses) 30 Bathing Goods (Soap, Perfume, etc.)
-
-5
-
-Book 50 Caltrops 10 Card Deck 5 Chain (10ft) 10 Chalk (petty) 1 Chest 25 Chisel 5 Common Agents (Glue, Grease, etc.)
-
-10
-
-Common Tools (Hammer, Shovel, etc.)
-
-10
-
-Compass 75 Complex Instruments (Bagpipes, Fiddle, etc.)
-
-50
-
-Containers (Sack, Waterskin, etc.) 10 Cooking Gear (Pots, Utensils, etc.) 10 Costume Gear (Face Paint, Disguise)
-
-15
-
-Dowsing Rod 15 Expeditionary Gear (Climbing Spikes, Pulley, etc.)
-
-10
-
-Fire Oil 10 Fishing Rod 10 Games (Cards, Dice, etc.) 10
-
-Gloves (petty) 20 Grappling Hook 25 Lantern 10 Mirror 5 Net 10 Oil Can (6 uses) 10 Outdoor Comfort (Blanket, Hammock, etc.)
-
-10
-
-Parchment (3 uses) 10 Pole (10ft) 5 Repellent (Wolfsbane, Mugwort, etc.)
-
-10
-
-Rope (25ft) 5 Sedative 30 Sewing Kit 20 Simple Instruments (Pipes, Lute, etc.)
-
-10
-
-Smoking Pipe (petty) 15 Specialized Tools (Ink, etc.) 20 Spiked Boots 15 Spyglass 40 Tent (fits 2, bulky) 20 Thieving Tools (Lockpick, Metal File, etc.)
-
-25
-
-Torch (3 uses) 5 Trap (d6 STR damage) 35 Whistle (petty) 15 Wilderness Clothes (Poncho, Cloak, etc.) (petty)
-
-15
-
-39
+| 物品 | 價格 |
+| --- | ---: |
+| 充氣囊 | 5 |
+| 解毒劑 | 20 |
+| 繃帶（3 次使用） | 30 |
+| 沐浴用品（肥皂、香水等） | 5 |
+| 書籍 | 50 |
+| 拒馬釘 | 10 |
+| 紙牌 | 5 |
+| 鍊條（10 呎） | 10 |
+| 粉筆（零碎） | 1 |
+| 箱子 | 25 |
+| 鑿子 | 5 |
+| 常用材料（膠水、油脂等） | 10 |
+| 常用工具（鎚子、鏟子等） | 10 |
+| 指南針 | 75 |
+| 複雜樂器（風笛、小提琴等） | 50 |
+| 容器（麻袋、水袋等） | 10 |
+| 烹飪用具（鍋子、餐具等） | 10 |
+| 道具服裝（臉部彩繪、偽裝） | 15 |
+| 探礦杖 | 15 |
+| 遠征裝備（攀爬釘、滑輪等） | 10 |
+| 火油 | 10 |
+| 釣竿 | 10 |
+| 遊戲（紙牌、骰子等） | 10 |
+| 手套（零碎） | 20 |
+| 爪鉤 | 25 |
+| 提燈 | 10 |
+| 鏡子 | 5 |
+| 網子 | 10 |
+| 油罐（6 次使用） | 10 |
+| 戶外舒適用品（毯子、吊床等） | 10 |
+| 羊皮紙（3 次使用） | 10 |
+| 長竿（10 呎） | 5 |
+| 驅避藥草（狼毒、艾草等） | 10 |
+| 繩索（25 呎） | 5 |
+| 鎮靜劑 | 30 |
+| 縫紉工具包 | 20 |
+| 簡易樂器（笛子、魯特琴等） | 10 |
+| 煙斗（零碎） | 15 |
+| 專用工具（墨水等） | 20 |
+| 尖刺靴 | 15 |
+| 望遠鏡 | 40 |
+| 帳篷（可容納 2 人，笨重） | 20 |
+| 竊盜工具（開鎖工具、金屬銼刀等） | 25 |
+| 火把（3 次使用） | 5 |
+| 陷阱（d6 STR 傷害） | 35 |
+| 哨子（零碎） | 15 |
+| 荒野服裝（雨披、斗篷等）（零碎） | 15 |

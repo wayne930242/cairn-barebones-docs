@@ -5,420 +5,402 @@ sidebar:
   order: 0
 ---
 
-## Spellbooks
+## 1 吸附
 
-- 1 Adhere
+物體表面覆滿極度黏稠的黏液。鄰近物體會以極大力量黏在書上。
 
-An object is covered in extremely sticky slime. Adjacent objects stick to the book with great force.
+## 2 錨定
 
-- 2 Anchor
+一條強韌的金屬線從你的雙臂長出，固定在兩側各 50 英尺內的兩個點上。若將繩索穿過書脊上的鐵環，繩索會變得和大象一樣重。
 
-A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. If a rope is pulled through the iron loop on its spine, it becomes as heavy as an elephant.
+## 3 動畫物體
 
-- 3 Animate Object
+物體會盡力服從你的命令。書身像黏土一樣可以塑形，書頁間不時傳出孩子般的笑聲。
 
-An object obeys your commands as best it can. Moldable like clay. Childish laughter sprouts from its pages.
+## 4 擬人化
 
-- 4 Anthropomorphize
+一隻動物在一天內獲得人類的智慧，或擁有人類的外貌，二者擇一。牠會依受到的對待發出嗚咽、呼嚕或咆哮聲。
 
-An animal either gains human intelligence or human appearance for one day. Whimpers, purrs and growls depending on its treatment.
+## 5 秘法之眼
 
-- 5 Arcane Eye
+你能透過一顆受魔法驅使的漂浮眼球看見事物。眼球會依你的命令飛行，但需要噴一點水才會張開。
 
-You can see through a magical floating eyeball that flies around at your command. Needs a spritz of water to open.
+## 6 星界牢獄
 
-- 6 Astral Prison
+物體被封在無法摧毀的水晶外殼中，時間與空間都因此凍結。外殼寂靜而抽象，內部的臉孔卻在痛苦中尖叫。
 
-An object is frozen in time and space within an invulnerable crystal shell. Silent, abstract, faces scream in anguish within.
+## 7 吸引
 
-- 7 Attract
+兩個物體只要相距 10 英尺內，就會受到強烈的磁力彼此吸引。附近的指南針會毫無用處地不停旋轉。
 
-Two objects are strongly magnetically attracted to each other if they come within 10 feet. Nearby compasses spin uselessly.
+## 8 聲音幻覺
 
-- 8 Auditory Illusion
+你創造出聽來像是來自指定方向的虛假聲音。一天之中，書會隨機發出偶爾很不合時宜的聲響。
 
-You create illusory sounds that seem to come from a direction of your choice. Produces random and occasionally inopportune sounds throughout the day.
+## 9 胡言
 
-- 9 Babble
+生物必須大聲且清楚地重複你想的一切，除此之外無法說話。朗讀書中文字時，其他人的話會變得無法理解。
 
-A creature must loudly and clearly repeat everything you think. It is otherwise mute. When the text is read aloud, the words of others become unintelligible.
+## 10 誘餌花
 
-- 10 Bait Flower
+地面會長出一株散發腐肉氣味的植物，並吸引蒼蠅。
 
-A plant sprouts from the ground that emanates the smell of decaying flesh. Attracts flies.
+## 11 獸形
 
-- 11 Beast Form
+你與所持物品變形成普通動物。書身覆滿厚毛，邊緣排列著細小的牙齒。
 
-You and your possessions transform into a mundane animal. Covered in thick fur, its edges lined with small teeth.
+## 12 迷亂
 
-- 12 Befuddle
+你指定的生物在法術持續期間無法形成新的短期記憶。每次打開書時，書中內容都會移動並改變。
 
-A creature of your choice is unable to form new short-term memories for the duration of the spell. Its contents shift and change each time it is opened.
+## 13 身體交換
 
-- 13 Body Swap
+你與觸碰到的生物交換身體。若其中一具身體死亡，另一具也會死亡。封面印著最後一位閱讀者的肖像。
 
-You switch bodies with a creature you touch. If one body dies, the other dies as well. The front cover shows an image of the last creature to read it.
+## 14 魅惑
 
-- 14 Charm
+你看得見的生物會把你當成朋友。書摸起來溫暖，並散發玫瑰香氣。
 
-A creature you can see treats you as a friend. Warm to the touch, and smells of roses.
+## 15 命令
 
-40
+目標會服從一個不會傷害自己的三字命令。書會隨時間變薄，最後永遠消失。
 
-- 15 Command
+## 16 理解
 
-A target obeys a single three-word command that does not cause it harm. Grows thinner over time, until finally disappearing forever.
+你會在短時間內精通所有語言。書頁會滴落字母，染污碰到的一切。
 
-- 16 Comprehend
+## 17 泡沫錐
 
-You become fluent in all languages for a short while. Drips letters, staining whatever it touches.
+濃密泡沫從你手中噴出，覆蓋目標。泡沫如海綿般濕潤，並留下肥皂殘跡。
 
-- 17 Cone of Foam
+## 18 控制植物
 
-Dense foam sprays from your hand, coating the target. Spongy and moist with a soapy residue.
+附近的植物與樹木服從你，並獲得緩慢移動的能力。書脊長出葉子，散發淡淡腐敗氣味。
 
-- 18 Control Plants
+## 19 控制天氣
 
-Nearby plants and trees obey you and gain the ability to move at a slow pace. Leaves grow along the spine, and it smells faintly of decay.
+你可以隨意改變天氣的類型，但除此之外無法控制天氣。書對火焰與水的傷害具有極高抗性。
 
-- 19 Control Weather
+## 20 治療傷口
 
-You may alter the type of weather at will, but you do not otherwise control it. Highly resistant to fire and water damage.
+每天讓你能觸碰的一個生物恢復 1d4 點 STR。書散發醋與百里香的氣味，使用後會變紅。
 
-- 20 Cure Wounds
+## 21 震聾
 
-Restore 1d4 STR per day to a creature you can touch. Smells of vinegar and thyme. Turns red after use.
+附近所有生物都會失去聽力。附近的樂器偶爾會自行發聲，彷彿在抗議。
 
-- 21 Deafen
+## 22 偵測魔法
 
-All nearby creatures are deafened. Nearby instruments occasionally sound off, as if in protest.
+你可以看見或聽見附近的魔法靈光。附近有人使用魔法時，書摸起來會變暖。
 
-- 22 Detect Magic
+## 23 拆解
 
-You can see or hear nearby magical auras. Becomes warm to the touch if magic is used nearby.
+你身體的任何部位都能隨意拆下或裝回，不會造成疼痛或傷害。即使拆下，你仍能控制它們。書會再生所有撕裂或遭塗毀的書頁。
 
-- 23 Disassemble
+## 24 偽裝
 
-Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. Regenerates any torn or defaced pages.
+只要角色仍維持人形，你就能隨意改變其外貌。試圖複製其他角色時，效果會顯得詭異。書的表面是一面完美的鏡子。
 
-- 24 Disguise
+## 25 位移
 
-You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. The surface makes a perfect mirror.
+物體看起來會出現在距離實際位置最多 15 英尺的地方。書內偶爾會塞著線頭、衣物與葉子。
 
-- 25 Displace
+## 26 地震
 
-An object appears to be up to 15ft from its actual position. Bits of string, clothing, and leaves are sometimes stuffed inside.
+地面開始劇烈震動，建築物可能受損或倒塌。沙子彷彿永不停歇地從書角流出。
 
-- 26 Earthquake
+## 27 彈性
 
-The ground begins shaking violently. Structures may be damaged or collapse. Sand dribbles from the corners, seemingly without stop.
+你的身體可以伸長至 10 英尺。書散發太妃糖氣味，而且非常柔軟有彈性。
 
-- 27 Elasticity
+## 28 元素牆
 
-Your body can stretch up to 10ft. Smells of taffy, and is very flexible.
+地面升起一面長 50 英尺、高 10 英尺的直線冰牆或火牆。使用後，皮膚與較溫暖的物質會黏在牆上。
 
-- 28 Elemental Wall
+## 29 竊取
 
-A straight wall of ice or fire 50ft long and 10ft high rises from the ground. Skin and warmer substances stick to it after use.
+看得見的物品會傳送到你手中。盟友珍愛的物品偶爾會出現在書頁之間。
 
-- 29 Filch
+## 30 魚肺
 
-A visible item teleports to your hands. An ally’s prized possession may occasionally be found tucked between its covers.
+目標能在水下呼吸，直到再次浮出水面。書散發強烈海洋氣味，並吸引野生動物。
 
-- 30 Fish Lung
+## 31 閃光
 
-A target can breathe underwater until they surface again. Smells strongly of the sea. Attracts wild animals.
+明亮能量球將一道光痕射入天空，向敵我雙方揭露你的位置。書在完全黑暗中會微微發光。
 
-41
+## 32 濃霧
 
-- 31 Flare
+濃霧從你身邊向外擴散。若將書浸入水中，最終會把所有液體化為蒸氣。
 
-A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. Faintly glows in complete darkness.
+## 33 狂暴
 
-- 32 Fog Cloud
+附近的生物爆發出暴力狂潮。書面粗糙如砂紙，會摧毀碰到的任何書籍。
 
-A dense fog spreads out from you. When submersed in water, the book eventually turns all the liquid to vapor.
+## 34 門
 
-- 33 Frenzy
+通往隨機位面的傳送門開啟。書中央被挖出一個通往虛無的大洞，丟進去的物品再也不會出現。
 
-A nearby creature erupts in a frenzy of violence. Rough, sandpaper cover that destroys any book it touches.
+## 35 重力轉向
 
-- 34 Gate
+你可以改變重力方向，但只能影響自己。書會黏在附近最大的物體上。
 
-A portal to a random plane opens. A large hole is carved into the center, ending in a void. Items dropped within are never seen again.
+## 36 貪婪
 
-- 35 Gravity Shift
+生物會產生強烈衝動，想要擁有你指定的可見物品。封面會依持有者改變，暗示其最深層的欲望。
 
-You can change the direction of gravity, but only for yourself. Attaches itself to the largest object nearby.
+## 37 加速
 
-- 36 Greed
+你的移動速度變成三倍。書打開時書頁會瘋狂翻動，可能造成紙割傷。
 
-A creature develops the overwhelming urge to possess a visible item of your choice. The cover changes depending on the owner, subtly hinting at their deepest desires.
+## 38 憎恨
 
-- 37 Haste
+生物會對另一個生物或群體產生深刻憎恨，並渴望摧毀對方。長時間接觸此書可能造成猜疑、妄想與對他人的不信任。
 
-Your movement speed is tripled. Pages flip wildly while open. Can cause paper cuts.
+## 39 聽見低語
 
-- 38 Hatred
+你能清楚聽見最微弱的聲音。朗讀者的聲音在之後短時間內會被放大。
 
-A creature develops a deep hatred of another creature or group and wishes to destroy them. Long term exposure to the book can cause suspicion, paranoia and distrust of others.
+## 40 懸浮
 
-- 39 Hear Whispers
+物體會無摩擦地懸在離地 2 英尺處，最多承載一個人形生物。丟下後會自行漂浮。
 
-You can hear faint sounds clearly. The reader’s voice is amplified for a short period of time afterwards.
+## 41 催眠
 
-- 40 Hover
+生物進入恍惚狀態，並如實回答你提出的一個是非問題。封面飾有引人注目的漩渦狀螺旋。
 
-An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. Floats if dropped.
+## 42 冰觸
 
-- 41 Hypnotize
+厚厚的冰層從被觸碰的表面向外擴散，半徑最多 10 英尺。需要戴手套。不可燃。
 
-A creature enters a trance and will truthfully answer one yes or no question you ask it. Eye-catching, swirling spirals don its covers.
+## 43 辨認持有者
 
-- 42 Icy Touch
+字母會浮現在你觸碰的物體上，拼出該物體所有持有者的名字（如果有的話）。書內頁列著前一位持有者的名字。
 
-A thick ice layer spreads across a touched surface, up to 10ft in radius. Gloves required. Nonflammable.
+## 44 照明
 
-- 43 Identify Owner
+漂浮的光源會依你的命令移動。置於光線中時，書頁會變成充滿鮮豔彩虹的稜鏡。
 
-Letters appear over the object you touch, spelling out the name of the object’s owners, if there are any. The book’s interior lists the name of its previous owner.
+## 45 隱形繫帶
 
-- 44 Illuminate
+相距 10 英尺內的兩個物體，彼此距離不能超過 10 英尺。書頁沒有以膠水或線縫合，卻仍會緊緊相連。
 
-A floating light moves as you command. When held in light, the pages become a prism of vibrant rainbows.
+## 46 敲擊
 
-- 45 Invisible Tether
+附近普通或魔法鎖會大聲解鎖。書本身是鎖著的；新持有者在下一餐後會「生出」鑰匙。
 
-Two objects within 10ft of each other cannot be moved more than 10ft apart. Its pages are not attached by glue or thread, yet stay together nonetheless.
+## 47 跳躍
 
-42
+你可以跳至 10 英尺高一次。把書丟出去後，它會一直飛下去。
 
-- 46 Knock
+## 48 液態空氣
 
-A nearby mundane or magical lock unlocks loudly. Locked. A new owner “produces” the key after their next meal.
+你周圍的空氣變得可以游泳。書會自行漂浮，並從碰到的物體上彈開。
 
-- 47 Leap
+## 49 魔法抑制器
 
-You jump up to 10ft high, once. When thrown, it just keeps going.
+附近所有魔法效果的效力減半。法術書 100 英尺內的遺物無法充能。
 
-- 48 Liquid Air
+## 50 莊園
 
-The air around you becomes swimmable. Floats of its own volition, bouncing off of whatever it touches.
+一座堅固且配備家具的小屋會出現數小時。你可以隨意允許或禁止他人進入。若書留在屋內，書與小屋都會永遠消失。
 
-- 49 Magic Dampener
+## 51 彈珠狂熱
 
-All nearby magical effects have their effectiveness halved. Relics within 100ft of the spellbook cannot be recharged.
+你的口袋裡會裝滿彈珠，每 30 秒補滿一次。受到搖動時會發出俏皮的喀啦聲。
 
-- 50 Manse
+## 52 假面
 
-A sturdy, furnished cottage appears for hours. You can permit and forbid entry to it at will. If left inside, both the book and the cottage vanish forever.
+角色的外貌與聲音會變得和你觸碰的角色完全相同。長時間使用會讓持有者養成無意識卻明顯的抽搐動作。
 
-- 51 Marble Craze
+## 53 縮小
 
-Your pockets are full of marbles and will refill every 30 seconds. When jostled, makes a playful rattling sound.
+你觸碰的生物會縮小至老鼠大小。書中文字大得荒謬又滑稽。
 
-- 52 Masquerade
+## 54 鏡像
 
-A character’s appearance and voice becomes identical to those of a character you touch. Extended use causes the owner to develop unconscious yet noticeable tics.
+一個受你控制的虛假分身會出現。時間一久，持有者開始懷疑誰才是原本的自己，誰又是分身。
 
-- 53 Miniaturize
+## 55 鏡行
 
-A creature you touch is shrunk down to the size of a mouse. The text is ludicrously, comically large.
+鏡子會成為通往另一面鏡子的門，而那面鏡子必須是你今天照過的。持有者不禮貌地敲封面時，門不會開啟。
 
-- 54 Mirror Image
+## 56 多臂
 
-An illusory duplicate of yourself appears and is under your control. Over time, the owner begins to question who is the original, and who is the duplicate.
+你暫時長出一隻額外的手臂。使用後，施法者會被幻肢症折磨一天。
 
-- 55 Mirrorwalk
+## 57 夜之球
 
-A mirror becomes a gateway to another mirror that you looked into today. Will not open unless the owner politely knocks on the cover.
+面前出現一個寬 50 英尺、顯示夜空的黑暗球體。封面上顯示一個醒目的星座。
 
-- 56 Multiarm
+## 58 物體化
 
-You temporarily gain an extra arm. After use, the caster is wracked with phantom limb syndrome for a day.
+你變成一個介於大鋼琴與蘋果之間大小的無生命物體。使用後，持有者數日內會強烈產生人面錯覺。
 
-- 57 Night Sphere
+## 59 軟泥形
 
-A 50ft-wide sphere of darkness displaying the night sky appears before you. Displays a prominent constellation on its cover.
+你變成一團活生生的凝膠。書會緩慢滴落酸液，最終腐蝕碰到的一切。
 
-- 58 Objectify
+## 60 安撫
 
-You become any inanimate object between the size of a grand piano and an apple.The owner experiences intense pareidolia for days after use.
+你附近的生物會厭惡暴力。書散發茉莉與焚香氣味，並吸引孩童。
 
-- 59 Ooze Form
+## 61 通道
 
-You become a living jelly. Slowly drips an acid that eventually eats away anything it touches.
+在木頭、石頭或磚牆中開出一條暫時通路。放在書上方的物體必定會從另一側掉出。
 
-- 60 Pacify
+## 62 恐懼症
 
-A creature near you has an aversion to violence. Smells of jasmine and incense. Attracts children.
+附近的生物會對你指定的物體感到恐慌。隨著時間過去，令人不安的抽象藝術會開始填滿書頁。
 
-43
+## 63 坑洞
 
-- 61 Passage
+地面會出現一個寬 10 英尺、深 10 英尺的坑洞。書脊可安全收納一根標準岩釘。
 
-Creates a temporary path through wood, stone or brick. An object dropped on top of the book inevitably falls through the other side.
+## 64 原始躍升
 
-- 62 Phobia
+生物會迅速演化成其物種的未來形態。持有者會被自己祖先的奇異幻象糾纏。
 
-A nearby creature becomes terrified of an object of your choice. Over time, haunting, abstract art begins to fill its pages.
+## 65 推拉
 
-- 63 Pit
+任何大小的物體都會以一個人的力量，筆直地被拉向你或推離你。施加在書上的任何力量都會被滑稽地放大。
 
-A pit 10ft wide and 10ft deep opens in the ground. A standard piton can be safely stored in its spine.
+## 66 起死回生
 
-- 64 Primal Surge
+一具骷髏從地面升起，為你效命。骷髏極其愚蠢，只能服從簡單命令。每次使用後，持有者都會越來越迷戀骨頭。
 
-A creature rapidly evolves into a future version of its species. The owner is haunted by strange visions of their own ancestors.
+## 67 喚起靈魂
 
-- 65 Push/Pull
+附近屍體的靈魂現身，並回答一個問題。答案（但不是問題）會永遠刻在書頁上。
 
-An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. Any force against the book is comically amplified.
+## 68 讀心
 
-- 66 Raise Dead
+你能聽見附近生物的表層思想。長期持有可能讓讀者把他人的思想誤認為自己的。
 
-A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. The owner becomes more and more fascinated with bones after each use.
+## 69 排斥
 
-- 67 Raise Spirit
+兩個物體在 10 英尺內會受到強烈磁力而彼此排斥。書由兩條強力繫帶閉合，卻會在不合時宜的時候猛然彈開。
 
-The spirit of a nearby corpse manifests and will answer 1 question. The answers (but not their questions) are forever inscribed in its pages.
+## 70 占卜
 
-- 68 Read Mind
+你能透過今天稍早碰過的生物之眼看見事物。使用後，持有者的雙眼會變成乳白色一小時。
 
-You can hear the surface thoughts of nearby creatures. Long-term possession can cause the reader to mistake the thoughts of others as their own.
+## 71 雕塑元素
 
-- 69 Repel
+無生命材料在你手中會像黏土一樣。接觸木頭或布料時會緩慢腐敗。埋入土中或浸入水裡即可恢復。
 
-Two objects are strongly magnetically repelled from each other within 10 feet. Closed by two powerful straps that spring open at inopportune times.
+## 72 感知
 
-- 70 Scry
+選擇一種物體（鑰匙、黃金、箭、壺等）。你能感知最近的一個。書的前一位持有者永遠知道書目前的位置。
 
-You can see through the eyes of a creature you touched earlier today. The owner’s eyes turn milky-white for an hour after use.
+## 73 盾牌
 
-- 71 Sculpt Elements
+你觸碰的生物受到普通攻擊的保護，持續一分鐘。書以生鏽的鎖子甲裝訂，十分沉重。持在手中時提供 +1 護甲。
 
-Inanimate material behaves like clay in your hands. Slowly decays on contact with wood or cloth. Bury in dirt or submerge in water to refresh.
+## 74 遮蔽
 
-- 72 Sense
+你觸碰的生物在移動前都處於隱形狀態。除了書目前的持有者之外，任何人都看不見它。
 
-Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. The book’s previous owner is always aware of the book’s current location.
+## 75 交換
 
-- 73 Shield
+你看得見的兩個生物會立刻交換位置。若書被偷走但尚未讀過，會重新出現在持有者上次放下它的地方。
 
-A creature you touch is protected from mundane attacks for one minute. Bound in rusty ring-mail and is quite heavy. If held, provides +1 Armor.
+## 76 巧手修復
 
-- 74 Shroud
+你能修復無生命物體的小損傷。書由一百本書的羊皮紙縫製而成，沒有兩頁相同。
 
-A creature you touch is invisible until they move. Invisible to any but the book’s current owner.
+## 77 睡眠
 
-44
+你看得見的生物會陷入淺眠。書像枕頭一樣柔軟，卻只能帶來斷斷續續的睡眠。
 
-- 75 Shuffle
+## 78 滑溜
 
-Two creatures you can see instantly switch places. If stolen but not yet read, it reappears wherever its owner last left it.
+半徑 30 英尺內的每個表面都變得極度滑溜。拿書時必須戴手套，否則它會以最滑稽的方式掉落。
 
-- 76 Skillful Repair
+## 79 煙霧形
 
-You make minor repairs to a nonliving object. Sewn from the vellum of one hundred books, no two pages are alike.
+你的身體變成可以控制的活煙。書散發營火氣味，書頁不會被燒掉，卻對濕氣非常敏感。
 
-- 77 Sleep
+## 80 嗅聞
 
-A creature you can see falls into a light sleep. Soft as a pillow, but yields only fitful sleep.
+你能聞到最微弱的氣味痕跡。書會散發只有持有者聞得到的強烈氣味。
 
-- 78 Slick
+## 81 吹熄
 
-Every surface in a 30ft radius becomes extremely slippery. Gloves are required for handling, lest the book is dropped in a most comical fashion.
+你看得見的任何普通光源都會立刻熄滅。若長時間放在同一處，附近光源最終會變暗，然後完全熄滅。
 
-- 79 Smoke Form
+## 82 分類
 
-Your body becomes a living smoke that you can control. Smells of campfire. The pages cannot be burnt, but are very sensitive to moisture.
+無生命物品會依你設定的分類自行整理。書被丟下或扔出後會自行立正。
 
-- 80 Sniff
+## 83 法術鋸
 
-You can smell even the faintest traces of scents. Expresses a strong odor detectable only by its owner.
+一片旋轉刀刃從你的胸口飛出，清除路徑上的所有植物材料，但除此之外毫無傷害。書以染污的皮革包裹，至少每月應上油一次。
 
-- 81 Snuff
+## 84 蜘蛛攀爬
 
-The source of any mundane light you can see is instantly snuffed out. If left in one place for long periods, nearby light sources eventually dim, then finally go out.
+你能像蜘蛛一樣攀爬表面。每次使用前都必須推開新生的蜘蛛網，而且蜘蛛網很難清除。
 
-- 82 Sort
+## 85 群聚
 
-Inanimate items sort themselves according to categories you set. Rights itself when dropped or thrown.
+你變成一群烏鴉、老鼠或食人魚。你只能受到爆發攻擊傷害。書很容易分成十幾個獨立部分，之後會緩慢彼此靠近。
 
-- 83 Spellsaw
+## 86 目標誘餌
 
-A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. Wrapped in stained leather, it should be oiled at least once a month.
+你觸碰的物體會成為附近任何法術的目標。書會吸引各種魔法生物、法術洩漏與占卜。
 
-- 84 Spider Climb
+## 87 心靈遙控
 
-You can climb surfaces like a spider. New cobwebs must be pushed aside prior to each use. They are hard to remove.
+你可以用意念移動一件重量低於 60 磅的物品。持有者只要用意念就能召回書（進行 WIL 豁免，否則之後陷入匱乏）。
 
-- 85 Swarm
+## 88 心靈感應
 
-You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks.Easily broken into a dozen distinct parts that slowly move towards one another over time.
+兩個生物無論相隔多遠，都能聽見彼此的思想。持有者能聽見最後一位持有者的思想（但不能回應），反之亦然。
 
-- 86 Target Lure
+## 89 傳送
 
-An object you touch becomes the target of any nearby spell. Attracts all manner of magical creatures, spell leaks, and scrying.
+你看得見的物體或人物會在半徑 50 英尺內從一處傳送到另一處。摧毀書後可製造通往另一個次元的傳送門。
 
-- 87 Telekinesis
+## 90 灌木叢
 
-You may mentally 1 move item under 60lbs. The owner can summon the book through mental command alone (WIL save or become deprived afterwards).
+一片寬達 50 英尺的樹叢與濃密灌木會突然生長。書被藤蔓纏繞，每次使用都必須再次摧毀藤蔓。
 
-- 88 Telepathy
+## 91 控制時間
 
-Two creatures can hear each other’s thoughts, no matter how far apart. The holder can hear (but not respond) to the thoughts of whoever last possessed it, and vice versa.
+半徑 50 英尺的氣泡內，時間在 30 秒內減慢或加快 10%。書的外觀會交替變成不可思議的古老模樣，或剛寫好的模樣。
 
-- 89 Teleport
+## 92 真視
 
-An object or person you can see is transported from one place to another in a 50ft radius. Can be destroyed to create a portal to another dimension.
+你能看穿附近所有幻覺。書無法以魔法藏起來，顯眼得像黑夜中的燈火。
 
-45
+## 93 湧泉
 
-- 90 Thicket
+一股海水泉會出現。書以硬化皮革裝訂，沾滿鹽與活著的藤壺。
 
-A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. Wrapped in vines that must be destroyed again with each use.
+## 94 視覺
 
-- 91 Time Control
+你完全控制一個生物所看見的事物。封面上有一隻令人不安、沒有眼瞼的眼睛。
 
-Time in a 50ft bubble slows down or increases by 10% for 30 seconds. Alternates its appearance as either impossibly old or freshly written.
+## 95 視覺幻覺
 
-- 92 True Sight
+你指定的、無聲且不會移動的房間大小幻覺會出現。書內充滿豐富多彩的書頁，十足像兒童睡前故事。
 
-You see through all nearby illusions. Cannot be concealed by magic, and sticks out like a sore thumb.
+## 96 結界
 
-- 93 Upwell
+地面會出現一個直徑 50 英尺的銀色圓圈。選擇一個無法穿越圓圈的物種。封面裝飾著數千隻眼睛的怪異異界生物。
 
-A spring of seawater appears. Hardened leather bindings caked in salt and living barnacles.
+## 97 網
 
-- 94 Vision
+粗厚的蛛網會從你的手腕射出。文字看似外星文字，卻不知為何能被理解，因為那是夢的語言。
 
-You completely control what a creature sees. An unnerving, lidless eye graces the front cover.
+## 98 小工具
 
-- 95 Visual Illusion
+一個手繪工具或物品的原始版本會出現在你面前，短時間後消失。書散發鐵鏽、汗水與努力的氣味，深處傳出艱苦勞動的微弱聲音。
 
-A silent, immobile, room-sized illusion of your choice appears. Filled with rich, colorful pages very much like a children’s bedtime story.
+## 99 巫師印記
 
-- 96 Ward
+你的手指能射出一道烏火色顏料。只有你看得見這種顏料，無論距離多遠，即使隔著固體也能看見。封面內側有一個小口袋，裡面放著一小疊紙，列出所有前任持有者的姓名與死亡日期。
 
-A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. The covers are decorated with bizarre, otherworldly creatures with thousands of eyes.
+## 100 X 光視覺
 
-- 97 Web
-
-Your wrists shoot thick webbing. The text is alien, yet somehow intelligible, for it is the language of dreams.
-
-- 98 Widget
-
-A primitive version of a drawn tool or item appears before you and disappears after a short time. Smells of iron and rust, sweat and effort. Faint sounds of harsh labor emanate from deep within its pages.
-
-- 99 Wizard Mark
-
-Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. Inside the front cover is a small
-
-pocket containing a thin pad of paper, listing the name and date of death of all previous owners.
-
-- 100 X-Ray Vision
-
-You can see through walls, dirt, clothing, etc. Long-term exposure can cause hair loss, blurry vision, and fatigue.
-
-46
+你能看穿牆壁、泥土、衣物等物體。長期接觸可能造成掉髮、視力模糊與疲勞。

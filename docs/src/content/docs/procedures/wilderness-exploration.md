@@ -5,174 +5,141 @@ sidebar:
   order: 1
 ---
 
-## Wilderness Exploration
+## 更（Watch）
 
-Watches
+- 一天分為三更，分別是早晨、午後與夜晚。
+- 每名角色每更可以選擇一項荒野行動（Wilderness Action）。
+- 如果角色們分頭行動，每個小組都視為獨立個體。
 
-- • A day is divided into three watches, called morning, afternoon, and night.
-- • Each character can choose one Wilderness Action per watch.
-- • If the characters split up, each group is treated as an independent entity.
+## 據點
 
-Points
+- 地圖上可能前往的目的地稱為據點。
+- 依路徑、地形、天氣與隊伍狀態而定，地圖上兩個據點之間的旅程可能需要一更或多更。
+- 隊伍大致知道前往目的地會遇到哪些挑戰，但很少知道詳細情況。
 
-- • Potential destinations on a map are called points.
-- • One or more watches may be required to journey between two points on a map, depending on the path, terrain, weather, and party status.
-- • The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics.
+## 旅行時間
 
-Travel Duration
+《石塚》的旅行時間以更計算；一天分為三個各八小時的時段。不過，多數隊伍會選擇在一天的第三更休息，因此也可以用「天」作為旅行時間的簡稱。
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use “days” as a shorthand for travel time.
+要判定兩個據點之間的距離，請加總路徑、地形與天氣難度表中的所有懲罰，並將沿途這些要素的變化納入考量。若是透過水路旅行，請參考周遭地形的難度。對於特別遼闊的地形，這段旅程最多可增加 +2 更的懲罰。
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+天氣、地形、黑暗、受傷的隊伍成員與其他障礙，都可能影響旅行，甚至讓旅行變得不可能！有時候，隊伍可能需要增加疲勞（Fatigue）或消耗資源，才能維持步調。坐騎、嚮導與地圖可以提高隊伍的旅行速度，甚至抵銷某些懲罰。
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add Fatigue or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+## 路徑難度
 
-Path Difficulty
+| 路徑 | 路徑懲罰 | 迷路機率 |
+| --- | --- | --- |
+| 道路 | 無 | 無 |
+| 小徑 | +1 更 | 六分之二 |
+| 荒野 | +2 更 | 六分之三 |
 
-Path Penalty Odds of Getting Lost Roads None None Trails +1 Watch 2-in-6 Wilderness +2 Watches 3-in-6
+### 路徑距離懲罰
 
-Path Distance Penalty Short +1 Watch Medium +2 Watches Long +3 Watches
+| 路徑距離 | 懲罰 |
+| --- | --- |
+| 短 | +1 更 |
+| 中 | +2 更 |
+| 長 | +3 更 |
 
-16
+## 地形難度
 
-## Terrain Difficulty
+| 難度 | 地形 | 懲罰 | 因素 |
+| --- | --- | --- | --- |
+| 簡單 | 平原、高原 | 無 | 適合休息的安全區域、其他旅行者、良好視野 |
+| 艱難 | 森林、沙漠、丘陵、山谷 | +1 更 | 野生動物、洪水、損壞的裝備、落石、不安全的庇護所、獵人的陷阱 |
+| 險惡 | 山脈、叢林、沼澤 | +2 更 | 流沙、吸泥、纏人的藤蔓、不潔的水、有毒的植物與動物、糟糕的導航 |
 
-Difficulty Terrain Penalty Factors Easy Plains, plateaus,
+## 天氣
 
-none Safe areas for rest, fellow travelers, good
+每天，守護人（Warden）應依適合的季節在天氣表上擲骰。如果連續兩次擲出「極端」天氣，天氣就會轉為「災難」。狂風驟雨會變成颶風，暴風雨會淹沒山谷，等等。
 
-visibility Tough Forests, deserts, hills
+### 天氣類型
 
-valleys
+| d6 | 春季 | 夏季 | 秋季 | 冬季 |
+| --- | --- | --- | --- | --- |
+| 1 | 良好 | 良好 | 尚可 | 尚可 |
+| 2 | 尚可 | 良好 | 尚可 | 不適 |
+| 3 | 尚可 | 尚可 | 不適 | 惡劣 |
+| 4 | 不適 | 不適 | 惡劣 | 惡劣 |
+| 5 | 惡劣 | 惡劣 | 惡劣 | 極端 |
+| 6 | 極端 | 極端 | 極端 | 極端 |
 
-+1 Watch Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter’s traps
+### 天氣難度
 
-Perilous Mountains, jungles, swamp
+| 天氣 | 效果 | 範例 |
+| --- | --- | --- |
+| 良好 | 有利於旅行的條件。 | 晴朗天空、陽光普照 |
+| 尚可 | 有利於旅行的條件。 | 多雲、有風 |
+| 不適 | 增加 1 個疲勞，或讓旅程增加一更。 | 陣風、陣雨、悶熱、寒冷的空氣 |
+| 惡劣 | 增加 1 個疲勞，或增加 +1 更。將地形難度提高一級。 | 雷雨、閃電、降雨、泥濘地面 |
+| 極端 | 增加 1 個疲勞，並增加 +1 更。將地形難度提高一級。 | 暴風雪、冰冷的風、洪水、泥流 |
+| 災難 | 多數隊伍無法在這種條件下旅行。 | 龍捲風、巨浪、颶風、火山爆發 |
 
-+2 Watches Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation
+## 荒野探索循環
 
-## Weather
+- 1. 守護人描述地圖上的目前據點或區域，以及路徑、天氣、地形或隊伍狀態可能如何影響旅行速度。隊伍規劃或調整前往目的地的路線。
+- 2. 每名隊伍成員選擇一項荒野行動。守護人敘述結果，接著在荒野事件表上擲骰。隊伍回應這些結果。
+- 3. 玩家與守護人記錄任何資源損失與新狀態（例如火炬的使用、匱乏（Deprived）等等），然後重複這個循環。
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the “Extreme” weather result is rolled twice in a row, the weather turns to “Catastrophic”. A squall becomes a hurricane, a storm floods the valley, etc.
+### 荒野事件
 
-Weather Type
+| 1d6 | 荒野事件 | 說明 |
+| --- | --- | --- |
+| 1 | 遭遇 | 在該地形類型或地點的遭遇表上擲骰。如果適用，別忘了擲非玩家角色（NPC）的反應。 |
+| 2 | 線索 | 隊伍發現附近遭遇、地點、隱藏特徵或附近區域資訊的線索、蹤跡或跡象。 |
+| 3 | 環境 | 天氣或地形發生變化。 |
+| 4 | 損失 | 隊伍面臨一項選擇，而這項選擇會消耗資源（口糧、工具等）、時間或力氣。 |
+| 5 | 精疲力竭 | 隊伍遇到障礙，被迫付出努力、更加謹慎或延誤。這可能代表花費額外時間（以及額外一項荒野行動），或在玩家角色的物品欄中增加疲勞，以表示他們遇到的困難。 |
+| 6 | 發現 | 隊伍找到食物、寶藏或其他有用的資源。守護人也可以改為揭露該區域的主要特徵。 |
 
-d6 Spring Summer Fall Winter
+## 荒野要素
 
-- 1 Nice Nice Fair Fair
-- 2 Fair Nice Fair Unpleasant
-- 3 Fair Fair Unpleasant Inclement
-- 4 Unpleasant Unpleasant Inclement Inclement
-- 5 Inclement Inclement Inclement Extreme
-- 6 Extreme Extreme Extreme Extreme
+### 夜晚
 
-Weather Difficulty
+- 隊伍可以選擇在夜間旅行、白天休息，但夜間旅行慢得多，也更加危險！
+- 夜間旅行總是更加危險！守護人應在荒野事件表上擲兩次骰。
+- 某些地形與天氣可能較容易在夜間穿越（例如沙漠）。守護人應將這些挑戰與其他挑戰一併取得平衡。
 
-Weather Effect Examples Nice Favorable conditions for travel. Clear skies, sunny Fair Favorable conditions for travel. Overcast, breezy Unpleasant Add a Fatigue or add one watch to
+### 睡眠
 
-Gusting winds, rain showers, sweltering heat, chill air
+- 一天的最後一更通常保留給紮營行動。
+- 角色通常每天都需要睡眠。任何超出輕微干擾的中斷，都可能抵銷或取消睡眠的益處。
+- 如果隊伍跳過紮營行動，每名成員都要在物品欄中增加 1 個疲勞，並陷入匱乏。此外，在睡眠不足時旅行，會將地形難度提高一級（也就是簡單變成艱難）。
 
-the journey.
+### 光源
 
-Inclement Add a Fatigue or add +1 watch. Increase terrain Difficulty by a step.
+- 火炬與其他放射狀光源可以照亮隊伍前方 40 英尺，但超出這個距離只能看見物體的模糊輪廓。
+- 沒有光源的角色可能會陷入恐慌，直到情況獲得改善為止。
+- 環境條件（突如其來的陣風、灰塵、水等）很容易吹熄火炬。
 
-Thunderstorms, lightning, rain, muddy ground
+### 光源種類
 
-Extreme Add a Fatigue and add +1 watch. Increase terrain Difficulty by a step.
+- 火炬在劣化前可以點燃 3 次。
+- 提燈可以無限次重新點燃，但需要另外準備油罐（6 次使用量）。
 
-Blizzards, freezing winds, flooding, mud slides
+## 荒野行動
 
-Catastrophic Most parties cannot travel under these conditions.
+### 旅行
 
-Tornados, tidal waves, hurricane, volcanic eruption
+- 開始旅行。依照距離，附近區域中明顯可見的地點、特徵與地形會逐一揭露。這項行動通常由整個隊伍共同採取。
+- 隊伍擲 1d6，確認途中是否迷路。路徑難度、地圖、隊伍技能與嚮導，都可能提高或降低這項風險。
+- 如果迷路，隊伍可能需要花費一項荒野行動來找回方向。否則，隊伍會抵達路線上的下一個據點。
+- 記得將迷路結果與相關的路徑難度相比較。
 
-17
+### 探索
 
-## Wilderness Exploration Cycle
+- 一名或多名隊伍成員搜尋大片區域，尋找隱藏特徵、偵察前方，或小心翼翼地前進。
+- 隊伍會發現某個地點（庇護所、村莊、洞穴等）或特徵（間歇泉、地下河、擱淺的船等）。
+- 即使目前區域已經完全探索過，離開該區域仍然需要採取旅行行動。
 
-- 1. The Warden describes the current point or region on the map and how the path, weather, terrain, or party status might affect travel speed. The party plots or adjusts a given course towards their destination.
-- 2. Each party member chooses a single Wilderness Action. The Warden narrates the results and then rolls on the Wilderness Events table. The party responds to the results.
-- 3. The players and the Warden record any loss of resources and new conditions (i.e. torch use, deprivation, etc), and the cycle repeats.
+### 補給
 
-Wilderness Events
+- 一名或多名隊伍成員可以狩獵、捕魚或採集食物，收集 1d4 份口糧（每份可使用 3 次）。每增加一名參與者，獲得更多收穫的機率就會提高（例如從 1d4 變成 1d6，最高可到 1d12）。
+- 相關經驗或裝備也可能增加收集到的收穫。
+- 隊伍可能遇到住家與小村莊，花費金幣與完整一更進行補給。
 
-1d6 Wilderness Events
+### 紮營
 
-- 1 Encounter
-
-Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC reactions if applicable.
-
-- 2 Sign
-
-The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.
-
-- 3 Environment A shift in weather or terrain.
-- 4 Loss
-
-The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.
-
-- 5 Exhaustion
-
-The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional Wilderness Action) or adding Fatigue to the PC’s inventory to represent their difficulties.
-
-- 6 Discovery
-
-The party finds food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area.
-
-18
-
-## Wilderness Elements
-
-Night
-
-- • The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- • Traveling at night is always more dangerous! The Warden should roll twice on the Wilderness Events table.
-- • Some terrain and weather may be easier to traverse at night (desert, for example). The Warden should balance these challenges along with any other.
-
-Sleep
-
-- • The last watch of the day is typically reserved for the Make Camp action.
-- • Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- • If the party skips the Make Camp action, they each add a Fatigue to their inventory and are deprived. Additionally, traveling when sleep-deprived raises the terrain Difficulty by a step (i.e. Easy becomes Tough).
-
-Light
-
-- • Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- • Characters without a light source may suffer from panic until their situation is remedied.
-- • Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
-
-Light Sources
-
-- • A torch can be lit 3 times before degrading.
-- • A lantern can be relit indefinitely but requires a separate oil can (6 uses).
-
-19
-
-## Wilderness Actions
-
-Travel
-
-- • Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- • The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path Difficulty, maps, party skills, and guides.
-- • If lost, the party may need to spend a Wilderness Action to recover their way. Otherwise, the party reaches the next point along their route.
-- • Remember to compare the results of getting lost to the relevant path Difficulty.
-
-Explore
-
-- • One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- • A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- • The Travel action is still required to leave the current area, even if it has been completely explored.
-
-Supply
-
-- • One or more party members may hunt, fish, or forage for food, collecting 1d4 Rations (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12).
-- • Relevant experience or equipment may also increase the bounty collected.
-- • The party may encounter homes and small villages, spending gold and a full watch to resupply.
-
-Make Camp
-
-- • The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a Ration.
-- • A lookout rotation is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- • Party members that were able to rest remove all of Fatigue from their inventory.
-
-20
+- 隊伍停下來，在荒野中搭建營地。每名隊伍成員（以及他們的坐騎）都要消耗一份口糧。
+- 隊伍會安排輪流守望，讓大家能夠安穩睡眠。人數較少的隊伍可能得冒險在無人看守的情況下睡覺，或在數天之間輪流睡眠。
+- 能夠休息的隊伍成員會從物品欄中移除所有疲勞。

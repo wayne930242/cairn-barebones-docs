@@ -5,177 +5,143 @@ sidebar:
   order: 1
 ---
 
-## Traits (d10)
+## 特徵（d10）
 
-Roll on the following tables for your character’s Traits.
+在以下表格擲骰，決定角色的特徵。
 
-Physique
+### 體格
 
-- 1 Athletic 6 Scrawny
-- 2 Brawny 7 Short
-- 3 Flabby 8 Statuesque
-- 4 Lanky 9 Stout
-- 5 Rugged 10 Towering
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 健壯 | 6 | 瘦弱 |
+| 2 | 壯碩 | 7 | 矮小 |
+| 3 | 肥胖 | 8 | 身材修長 |
+| 4 | 瘦長 | 9 | 粗壯 |
+| 5 | 粗獷 | 10 | 高聳 |
 
-Skin
+### 皮膚
 
-- 1 Birthmarked 6 Soft
-- 2 Marked 7 Tanned
-- 3 Oily 8 Tattooed
-- 4 Rosy 9 Weathered
-- 5 Scarred 10 Webbed
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 胎記斑駁 | 6 | 柔嫩 |
+| 2 | 有斑痕 | 7 | 曬黑 |
+| 3 | 油膩 | 8 | 紋身 |
+| 4 | 紅潤 | 9 | 飽經風霜 |
+| 5 | 滿是傷疤 | 10 | 有蹼 |
 
-Hair
+### 毛髮
 
-- 1 Bald 6 Long
-- 2 Braided 7 Luxurious
-- 3 Curly 8 Oily
-- 4 Filthy 9 Wavy
-- 5 Frizzy 10 Wispy
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 禿頭 | 6 | 長髮 |
+| 2 | 編髮 | 7 | 髮質華美 |
+| 3 | 捲髮 | 8 | 油膩 |
+| 4 | 污穢 | 9 | 波浪髮 |
+| 5 | 毛躁 | 10 | 稀疏 |
 
-Face
+### 臉孔
 
-- 1 Bony 6 Perfect
-- 2 Broken 7 Rakish
-- 3 Chiseled 8 Sharp
-- 4 Elongated 9 Square
-- 5 Pale 10 Sunken
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 骨感 | 6 | 完美 |
+| 2 | 破相 | 7 | 放蕩不羈 |
+| 3 | 雕刻般分明 | 8 | 尖銳 |
+| 4 | 修長 | 9 | 方正 |
+| 5 | 蒼白 | 10 | 凹陷 |
 
-28
+### 說話方式
 
-Speech
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 直截了當 | 6 | 沙啞 |
+| 2 | 洪亮 | 7 | 精確 |
+| 3 | 晦澀 | 8 | 尖細 |
+| 4 | 單調 | 9 | 口吃 |
+| 5 | 正式 | 10 | 耳語般 |
 
-- 1 Blunt 6 Gravelly
-- 2 Booming 7 Precise
-- 3 Cryptic 8 Squeaky
-- 4 Droning 9 Stuttering
-- 5 Formal 10 Whispery
+### 衣著
 
-Clothing
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 古董風 | 6 | 磨損 |
+| 2 | 血跡斑斑 | 7 | 寒酸 |
+| 3 | 優雅 | 8 | 制服 |
+| 4 | 污穢 | 9 | 腐臭 |
+| 5 | 異國風 | 10 | 沾滿污垢 |
 
-- 1 Antique 6 Frayed
-- 2 Bloody 7 Frumpy
-- 3 Elegant 8 Livery
-- 4 Filthy 9 Rancid
-- 5 Foreign 10 Soiled
+### 美德
 
-Virtue
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 有野心 | 6 | 正直 |
+| 2 | 謹慎 | 7 | 謙遜 |
+| 3 | 勇敢 | 8 | 仁慈 |
+| 4 | 自律 | 9 | 平和 |
+| 5 | 合群 | 10 | 寬容 |
 
-- 1 Ambitious 6 Honorable
-- 2 Cautious 7 Humble
-- 3 Courageous 8 Merciful
-- 4 Disciplined 9 Serene
-- 5 Gregarious 10 Tolerant
+### 惡習
 
-Vice
+| 骰值 | 結果 | 骰值 | 結果 |
+| --- | --- | --- | --- |
+| 1 | 好鬥 | 6 | 懶惰 |
+| 2 | 苦毒 | 7 | 緊張 |
+| 3 | 懦弱 | 8 | 粗魯 |
+| 4 | 欺瞞 | 9 | 虛榮 |
+| 5 | 貪婪 | 10 | 復仇心重 |
 
-- 1 Aggressive 6 Lazy
-- 2 Bitter 7 Nervous
-- 3 Craven 8 Rude
-- 4 Deceitful 9 Vain
-- 5 Greedy 10 Vengeful
+### 出身
 
-29
+在以下表格擲骰，決定角色的出身與起始裝備：
 
-Background
-
-Roll on the following table to determine your character’s background and starting equipment:
-
-- 1 Acolyte: Incense, Parchment & Ink (3 uses), random Spellbook
-- 2 Acrobat: Pole (10ft), Rope (25ft), Smokebomb
-- 3 Alchemist: Acid, Lens, Oilskin Bag
-- 4 Apothecary: Antitoxin, Bandages (3 uses), Sealable Bottle
-- 5 Assassin: Garrotte, Mask, Poison
-- 6 Astrologer: Candle (3 uses, dim), Marbles, Spyglass
-- 7 Baker: Flour, Honey, Sealable Bottle
-- 8 Barber-Surgeon: Bandages (3 uses), Scissors, Sedative
-- 9 Barkeep: Alcohol, Sealable Bottle, Sedative
-- 10 Beadle: Bell, Gloves (petty), Whistle (petty)
-- 11 Beekeeper: Fire Oil, Gloves (petty), Honey
-- 12 Bell Ringer: Gloves (petty), Rope (25 ft), Whistle (petty)
-- 13 Bird Keeper: Cage, Net, Whistle (petty)
-- 14 Blacksmith: Bellows, Hammer, Iron Tongs
-- 15 Bookbinder: Glue, Parchment & Ink (3 uses), Sewing Kit
-- 16 Bounty Hunter: Flash Powder, Manacles, Rope (25 ft)
-- 17 Butcher: Pail, Saw, Whetstone
-- 18 Carpenter: Hammer, Metal File, Saw
-- 19 Cartographer: Compass, Parchment & Ink (3 uses), Sextant
-- 20 Cartwright: Hand Drill, Pulley, Saw
-- 21 Chandler: Candle (3 uses, dim), Honey, Perfume
-- 22 Charlatan: Cards, Paint, Perfume
-- 23 Chimney Sweep: Bellows, Climbing Spikes, Rope (25 ft)
-- 24 Clockmaker: Magnifying Glass, Metal File, Pliers
-- 25 Cobbler: Pliers, Sack, Sewing Kit
-- 26 Cook: Flour, Pail, Smoking Herbs (3 uses)
-- 27 Cooper: Hammer, Hand Drill, Saw
-- 28 Courier: Bell, Compass, Parchment & Ink (3 uses)
-
-30
-
-- 29 Crypt Custodian: Incense, Lantern, Oil Can (6 uses)
-- 30 Cultist: Incense, Mask, Scroll of Random Spellbook (petty)
-- 31 Demolitionist: Explosive, Goggles, Grease
-- 32 Dowser: Dowsing Rod, Sealable Bottle, Shovel
-- 33 Duelist: Cloak (petty), Gloves (petty), Whetstone
-- 34 Entertainer: Dice, Songbook, Wig
-- 35 Executioner: Mask, Rope (25 ft), Whetstone
-- 36 Falconer: Cage, Gloves (petty), Whistle (petty)
-- 37 Farmer: Rope (25 ft), Sack, Shovel
-- 38 Fence: Bolt Cutters, Random Additional Gear, Sack
-- 39 Fisher: Air Bladder, Fishing Rod, Net
-- 40 Fletcher: Sack, Trap, Whetstone
-- 41 Gambler: Alcohol, Cards, Dice
-- 42 Gardener: Gloves (petty), Sack, Shovel
-- 43 Glassblower: Goggles, Lens, Pliers
-- 44 Gong Farmer: Gloves (petty), Sack, Shovel
-- 45 Gravedigger: Alcohol, Ladder, Shovel
-- 46 Guard: Lantern, Manacles, Whistle (petty)
-- 47 Herald: Mask, Signal Flag, Whistle (petty)
-- 48 Herbalist: Antitoxin, Mugwort, Sack
-- 49 Hermit: Blanket, Pole (10 ft), Smoking Herbs (3 uses)
-- 50 Highway Robber: Grappling Hook, Rope (25 ft), Signal Flag
-- 51 Hunter: Trap, Rope (25 ft), Smoking Herbs (3 uses)
-- 52 Illusionist: Candle (3 uses, dim), Flash Powder, Mirror
-- 53 Innkeeper: Alcohol, Bandages (3 uses), Parchment & Ink (3 uses)
-- 54 Jailer: Chain (10ft), Manacles, Whistle (petty)
-- 55 Jester: Cards, Lute, Perfume
-- 56 Jeweler: Magnifying Glass, Pliers, Tongs
-- 57 Knight: Gloves (petty), Signal Flag, Whetstone
-- 58 Lamplighter: Ladder (10ft, bulky), Oil Can (6 uses), Whistle (petty)
-- 59 Leech Collector: Gloves (petty), Leech (restores 1 STR, 3 uses), Net
-
-31
-
-- 60 Librarian: Candle (3 uses, dim), Parchment & Ink (3 uses), random Scroll (petty)
-- 61 Locksmith: Lock & Key, Metal File, Pliers
-- 62 Lumberjack: Rope (25 ft), Saw, Whetstone
-- 63 Mason: Chisel, Fan, Hammer
-- 64 Merchant: Random Additional Gear, Stylus, Wagon (+8 slots, slow)
-- 65 Miller: Bowl, Flour, Rope (25 ft)
-- 66 Miner: Lantern, Lodestone, Pickaxe
-- 67 Monk: Candle (3 uses, dim), Cloak (petty), Songbook
-- 68 Musician: Bowl, Fiddle, Songbook
-- 69 Naturalist: Hammock, Rope (25ft), Spyglass
-- 70 Navigator: Compass, Poncho (petty), Spyglass
-- 71 Oil Collector: Lantern, Oil Can (6 uses), Sealable Bottle
-- 72 Painter: Paint, Parchment & Ink (3 uses), Stylus
-- 73 Peddler: Cart (+4 slots, bulky), Random Additional Gear, Sack
-- 74 Philosopher: Chalk (petty), Parchment & Ink, Pipe
-- 75 Physician: Antitoxin, Bandages (3 uses), Crowbar
-- 76 Pilgrim: Blanket, Pole (10 ft), Poncho (petty)
-- 77 Potter: Chisel, Pail, Tongs
-- 78 Priest: Bandages (3 uses), Candle (3 uses, dim), Incense
-- 79 Prospector: Lantern, Lodestone, Pickaxe
-- 80 Rat Catcher: Sack, Trap, Whistle (petty)
-- 81 Sailor: Hammock, Rope (50 ft), Spyglass
-- 82 Scribe: Candle (3 uses, dim), Parchment & Ink (3 uses), Stylus
-- 83 Shepherd: Cloak (petty), Rope (25 ft), Whistle (petty)
-- 84 Smuggler: Lock & Key, Oilskin Bag, Rope (25 ft)
-- 85 Soldier: Spiked Boots, Tent (fits 2, bulky), Whetstone
-- 86 Spy: Disguise Kit, Garrotte, Mirror
-- 87 Stablehand: Blanket, Rope (25ft), Shovel
-- 88 Street Preacher: Bell, Parchment & Ink, Scroll of Random Spellbook (petty)
-- 89 Tailor: Cloak (petty), Scissors, Sewing Kit
-- 90 Tanner: Gloves (petty), Pliers, Tar
-
-32
+| 骰值 | 出身與裝備 | 骰值 | 出身與裝備 |
+| --- | --- | --- | --- |
+| 1 | 侍僧：香、羊皮紙與墨水（3 次使用）、隨機法術書 | 51 | 獵人：陷阱、繩索（25 呎）、煙燻草藥（3 次使用） |
+| 2 | 雜技演員：長桿（10 呎）、繩索（25 呎）、煙霧彈 | 52 | 幻術師：蠟燭（3 次使用，微光）、閃光粉、鏡子 |
+| 3 | 煉金術師：酸液、透鏡、油布袋 | 53 | 旅店老闆：酒、繃帶（3 次使用）、羊皮紙與墨水（3 次使用） |
+| 4 | 藥劑師：解毒劑、繃帶（3 次使用）、可封口瓶 | 54 | 監獄看守：鍊條（10 呎）、鐐銬、哨子（零碎） |
+| 5 | 刺客：勒頸索、面具、毒藥 | 55 | 小丑：紙牌、魯特琴、香水 |
+| 6 | 占星師：蠟燭（3 次使用，微光）、彈珠、望遠鏡 | 56 | 珠寶匠：放大鏡、鉗子、夾鉗 |
+| 7 | 麵包師：麵粉、蜂蜜、可封口瓶 | 57 | 騎士：手套（零碎）、信號旗、磨刀石 |
+| 8 | 理髮外科師：繃帶（3 次使用）、剪刀、鎮靜劑 | 58 | 點燈人：梯子（10 呎，笨重）、油壺（6 次使用）、哨子（零碎） |
+| 9 | 酒館老闆：酒、可封口瓶、鎮靜劑 | 59 | 採水蛭人：手套（零碎）、水蛭（恢復 1 點力量，3 次使用）、網 |
+| 10 | 司事：鈴鐺、手套（零碎）、哨子（零碎） | 60 | 圖書館員：蠟燭（3 次使用，微光）、羊皮紙與墨水（3 次使用）、隨機卷軸（零碎） |
+| 11 | 養蜂人：火油、手套（零碎）、蜂蜜 | 61 | 鎖匠：鎖與鑰匙、金屬銼、鉗子 |
+| 12 | 搖鈴人：手套（零碎）、繩索（25 呎）、哨子（零碎） | 62 | 樵夫：繩索（25 呎）、鋸子、磨刀石 |
+| 13 | 鳥類飼養人：鳥籠、網、哨子（零碎） | 63 | 石匠：鑿子、扇子、鎚子 |
+| 14 | 鐵匠：風箱、鎚子、鐵鉗 | 64 | 商人：隨機額外裝備、書寫筆、馬車（+8 格，緩慢） |
+| 15 | 裝訂師：膠水、羊皮紙與墨水（3 次使用）、縫紉工具組 | 65 | 磨坊工：碗、麵粉、繩索（25 呎） |
+| 16 | 賞金獵人：閃光粉、鐐銬、繩索（25 呎） | 66 | 礦工：提燈、磁石、鎬 |
+| 17 | 屠夫：水桶、鋸子、磨刀石 | 67 | 修士：蠟燭（3 次使用，微光）、斗篷（零碎）、歌集 |
+| 18 | 木匠：鎚子、金屬銼、鋸子 | 68 | 樂師：碗、小提琴、歌集 |
+| 19 | 製圖師：指南針、羊皮紙與墨水（3 次使用）、六分儀 | 69 | 博物學家：吊床、繩索（25 呎）、望遠鏡 |
+| 20 | 車匠：手搖鑽、滑輪、鋸子 | 70 | 航海士：指南針、雨披（零碎）、望遠鏡 |
+| 21 | 蠟燭匠：蠟燭（3 次使用，微光）、蜂蜜、香水 | 71 | 採油人：提燈、油壺（6 次使用）、可封口瓶 |
+| 22 | 江湖術士：紙牌、顏料、香水 | 72 | 畫家：顏料、羊皮紙與墨水（3 次使用）、書寫筆 |
+| 23 | 掃煙囪工：風箱、攀爬尖釘、繩索（25 呎） | 73 | 小販：手推車（+4 格，笨重）、隨機額外裝備、麻袋 |
+| 24 | 鐘錶匠：放大鏡、金屬銼、鉗子 | 74 | 哲學家：粉筆（零碎）、羊皮紙與墨水、煙斗 |
+| 25 | 鞋匠：鉗子、麻袋、縫紉工具組 | 75 | 醫師：解毒劑、繃帶（3 次使用）、撬棍 |
+| 26 | 廚師：麵粉、水桶、煙燻草藥（3 次使用） | 76 | 朝聖者：毛毯、長桿（10 呎）、雨披（零碎） |
+| 27 | 製桶匠：鎚子、手搖鑽、鋸子 | 77 | 陶匠：鑿子、水桶、夾鉗 |
+| 28 | 信差：鈴鐺、指南針、羊皮紙與墨水（3 次使用） | 78 | 祭司：繃帶（3 次使用）、蠟燭（3 次使用，微光）、香 |
+| 29 | 地穴管理人：香、提燈、油壺（6 次使用） | 79 | 探礦者：提燈、磁石、鎬 |
+| 30 | 邪教徒：香、面具、隨機法術書卷軸（零碎） | 80 | 捕鼠人：麻袋、陷阱、哨子（零碎） |
+| 31 | 爆破工：炸藥、護目鏡、油脂 | 81 | 水手：吊床、繩索（50 呎）、望遠鏡 |
+| 32 | 探水者：探測杖、可封口瓶、鏟子 | 82 | 抄寫員：蠟燭（3 次使用，微光）、羊皮紙與墨水（3 次使用）、書寫筆 |
+| 33 | 決鬥家：斗篷（零碎）、手套（零碎）、磨刀石 | 83 | 牧羊人：斗篷（零碎）、繩索（25 呎）、哨子（零碎） |
+| 34 | 表演者：骰子、歌集、假髮 | 84 | 走私者：鎖與鑰匙、油布袋、繩索（25 呎） |
+| 35 | 劊子手：面具、繩索（25 呎）、磨刀石 | 85 | 士兵：釘靴、帳篷（可容納 2 人，笨重）、磨刀石 |
+| 36 | 鷹獵人：鳥籠、手套（零碎）、哨子（零碎） | 86 | 間諜：偽裝工具組、勒頸索、鏡子 |
+| 37 | 農夫：繩索（25 呎）、麻袋、鏟子 | 87 | 馬伕：毛毯、繩索（25 呎）、鏟子 |
+| 38 | 贓物商：斷線鉗、隨機額外裝備、麻袋 | 88 | 街頭傳教士：鈴鐺、羊皮紙與墨水、隨機法術書卷軸（零碎） |
+| 39 | 漁夫：充氣囊、釣竿、網 | 89 | 裁縫：斗篷（零碎）、剪刀、縫紉工具組 |
+| 40 | 製箭師：麻袋、陷阱、磨刀石 | 90 | 皮革匠：手套（零碎）、鉗子、焦油 |
+| 41 | 賭徒：酒、紙牌、骰子 |  |  |
+| 42 | 園丁：手套（零碎）、麻袋、鏟子 |  |  |
+| 43 | 玻璃吹製工：護目鏡、透鏡、鉗子 |  |  |
+| 44 | 糞農：手套（零碎）、麻袋、鏟子 |  |  |
+| 45 | 掘墓人：酒、梯子、鏟子 |  |  |
+| 46 | 護衛：提燈、鐐銬、哨子（零碎） |  |  |
+| 47 | 傳令官：面具、信號旗、哨子（零碎） |  |  |
+| 48 | 草藥師：解毒劑、艾草、麻袋 |  |  |
+| 49 | 隱士：毛毯、長桿（10 呎）、煙燻草藥（3 次使用） |  |  |
+| 50 | 道路劫匪：爪鉤、繩索（25 呎）、信號旗 |  |  |

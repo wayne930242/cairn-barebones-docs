@@ -10,7 +10,7 @@ import starlightAutoSidebar from 'starlight-auto-sidebar';
 
 const SITE_CONFIG = {
 	// 網站標題（顯示在導航列）
-	title: '石冢：陽春版',
+	title: '石塚：陽春版',
 	// 預設語言
 	defaultLocale: 'zh-TW',
 	localeLabel: '繁體中文',

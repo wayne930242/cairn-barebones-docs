@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": "2026-08-15T07:45:22+00:00"
+    "updated": "2026-08-15T09:36:19+00:00"
   },
   "Warden": {
     "zh": "守護人",
@@ -232,7 +232,7 @@
     "is_term": true
   },
   "Cairn": {
-    "zh": "石冢",
+    "zh": "石塚",
     "notes": "遊戲本身譯名，與網站標題一致",
     "status": "approved",
     "is_term": true
@@ -360,6 +360,90 @@
   "NPC": {
     "zh": "非玩家角色",
     "notes": "書中實際多用 NPCs 縮寫，Non-Player Character 全稱僅出現一次",
+    "status": "approved",
+    "is_term": true
+  },
+  "Deprived": {
+    "zh": "匱乏",
+    "notes": "狀態詞，先前已在戰鬥等章節一致使用，補登",
+    "status": "approved",
+    "is_term": true
+  },
+  "Milestone": {
+    "zh": "里程碑",
+    "notes": "空閒期行動的進度追蹤單位",
+    "status": "approved",
+    "is_term": true
+  },
+  "Watch": {
+    "zh": "更",
+    "notes": "荒野探索時間單位，一天分三更（晨/午/夜），呼應中文計時傳統但非文言",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cost": {
+    "zh": "代價",
+    "notes": "空閒期行動所需付出的代價（金幣/資源/名聲/失去之物）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Source": {
+    "zh": "情報來源",
+    "notes": "空閒期調查行動的資訊來源（人物/地點/陣營/實體）",
+    "status": "approved",
+    "is_term": true
+  },
+  "Faction": {
+    "zh": "陣營",
+    "notes": "",
+    "status": "approved",
+    "is_term": true
+  },
+  "Wilderness Action": {
+    "zh": "荒野行動",
+    "notes": "",
+    "status": "approved",
+    "is_term": true
+  },
+  "Downtime Action": {
+    "zh": "空閒行動",
+    "notes": "",
+    "status": "approved",
+    "is_term": true
+  },
+  "Petty": {
+    "zh": "零碎",
+    "notes": "物品標籤，不佔用物品欄格；player-characters.md 已確立此譯法，統一沿用",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bulky": {
+    "zh": "笨重",
+    "notes": "物品標籤，佔用兩格",
+    "status": "approved",
+    "is_term": true
+  },
+  "Chainmail": {
+    "zh": "鎖子甲",
+    "notes": "",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gambeson": {
+    "zh": "絎縫甲",
+    "notes": "",
+    "status": "approved",
+    "is_term": true
+  },
+  "Brigandine": {
+    "zh": "軟甲",
+    "notes": "與 Gambeson（絎縫甲）區分，避免撞名",
+    "status": "approved",
+    "is_term": true
+  },
+  "Point": {
+    "zh": "據點",
+    "notes": "荒野探索地圖節點術語",
     "status": "approved",
     "is_term": true
   }

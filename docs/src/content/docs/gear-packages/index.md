@@ -5,56 +5,52 @@ sidebar:
   order: 0
 ---
 
-## Gear Packages
+## 戰士
 
-## Fighter
+- 3d6 金幣
+- 肉乾（3 次使用，輕便）
+- 火把（3 次使用）
+- 繃帶（3 次使用）
+- 繩索
+- 盾牌（+1 護甲）
+- 絎縫甲（+1 護甲）
+- 劍（d8）
+- 投擲匕首（d6）
+- 身分牌（零碎）
 
-- • 3d6 Gold Pieces
-- • Jerky (3 uses, petty)
-- • Torches (3 uses)
-- • Bandages (3 uses)
-- • Rope
-- • Shield (+1 Armor)
-- • Gambeson (+1 Armor)
-- • Sword (d8)
-- • Throwing Dagger (d6)
-- • Dog Tags (petty)
+## 盜賊
 
-## Thief
+- 3d6 金幣
+- 口糧（3 次使用）
+- 一對摺疊匕首（d6+d6）
+- 聚光提燈
+- 油罐（6 次使用）
+- 鐵蒺藜
+- 小鏡子
+- 開鎖工具
+- 抓鉤
+- 深色兜帽（零碎）
+- 粉筆（零碎）
 
-- • 3d6 Gold Pieces
-- • Rations (3 uses)
-- • Twin Folding Daggers (d6+d6)
-- • Bullseye Lantern
-- • Oil Can (6 uses)
-- • Caltrops
-- • Small Mirror
-- • Lockpick
-- • Grappling Hook
-- • Dark Hood (petty)
-- • Chalk (petty)
+## 法師
 
-## Magic-User
+- 3d6 金幣
+- 口糧（3 次使用）
+- 法杖（d6）
+- 小刀（d6）
+- 法術書：照明
+- 法術書：睡眠
+- 偵測魔法卷軸（零碎）
+- 羊皮紙與墨水（3 次使用）
+- 長袍（零碎）
 
-- • 3d6 Gold Pieces
-- • Rations (3 uses)
-- • Staff (d6)
-- • Knife (d6)
-- • Spellbook: Illuminate
-- • Spellbook: Sleep
-- • Scroll of Detect Magic (petty)
-- • Parchment & Ink (3 uses)
-- • Robes (petty)
+## 牧師
 
-## Cleric
-
-- • 3d6 Gold Pieces
-- • Rations (3 uses)
-- • Torches (3 uses)
-- • War Hammer (d10, bulky)
-- • Helmet (+1 Armor)
-- • Spellbook: Cure Wounds
-- • Bandages (3 uses)
-- • Bone Charm (petty, casts Ward once per day)
-
-36
+- 3d6 金幣
+- 口糧（3 次使用）
+- 火把（3 次使用）
+- 戰鎚（d10，笨重）
+- 頭盔（+1 護甲）
+- 法術書：治療傷口
+- 繃帶（3 次使用）
+- 骨製護符（零碎，每日可施放守護一次）

@@ -5,153 +5,148 @@ sidebar:
   order: 2
 ---
 
-- 91 Tax Collector: Parchment & Ink (3 uses), Sealable Bottle, Whistle (petty)
-- 92 Thief: Caltrops, Grappling Hook, Lockpick
-- 93 Tinker: Grease, Hammer, Pliers
-- 94 Toll Keeper: Bell, Lock & Key, Waterproof Bag
-- 95 Toymaker: Glue, Pliers, Scissors
-- 96 Vagabond: Blanket, Poncho (petty), Rope (25 ft)
-- 97 Vintner: Alcohol, Rope (25 ft), Sealable Bottle
-- 98 Weaver: Perfume, Rope (25 ft), Scissors
-- 99 Witch: Candle (3 uses, dim), Spellbook, Wolfsbane
-- 100 Witchfinder: Rope (25 ft), Scroll of Random Spellbook (petty), Spyglass
+- 91 稅吏：羊皮紙與墨水（3 次使用）、可密封瓶、哨子（零碎）
+- 92 小偷：蒺藜、抓鉤、開鎖工具
+- 93 修補匠：油脂、鎚子、鉗子
+- 94 收費員：鈴鐺、鎖與鑰匙、防水袋
+- 95 玩具匠：膠水、鉗子、剪刀
+- 96 流浪漢：毯子、斗篷（零碎）、繩索（25 英尺）
+- 97 酒商：酒、繩索（25 英尺）、可密封瓶
+- 98 織工：香水、繩索（25 英尺）、剪刀
+- 99 女巫：蠟燭（3 次使用，微光）、法術書、附子草
+- 100 獵巫人：繩索（25 英尺）、隨機法術書卷軸（零碎）、望遠鏡
 
-## Armor & Weapon
+所有玩家角色一開始都有以下裝備：
 
-All PCs start with the following gear:
+- 3d6 金幣
+- 口糧（3 次使用）
+- 火把（3 次使用）
 
-- • 3d6 Gold Pieces
-- • Rations (3 uses)
-- • Torch (3 uses)
+此外，請擲下列骰表，決定角色的護甲、武器與額外裝備：
 
-Additionally, roll on the following tables for your character’s armor, weapons, and additional gear:
+## 護甲（D6）
 
-Armor (D6)
+| 骰值 | 結果 |
+| --- | --- |
+| 1 | 無。改擲額外裝備表 |
+| 2 | 盾牌（+1 護甲） |
+| 3 | 頭盔（+1 護甲） |
+| 4 | 絎縫甲（+1 護甲） |
+| 5 | 鎖子甲（2 護甲，笨重） |
+| 6 | 板甲（3 護甲，笨重） |
 
-- 1 None. Roll for Additional Gear
-- 2 Shield (+1 Armor)
-- 3 Helmet (+1 Armor)
-- 4 Gambeson (+1 Armor)
-- 5 Chainmail (2 Armor, bulky)
-- 6 Plate (3 Armor, bulky)
+## 武器（D6）
 
-Weapons (D6)
+| 骰值 | 結果 |
+| --- | --- |
+| 1 | 匕首、棍棒、鐮刀、木杖等（d6 傷害） |
+| 2 | 長矛、劍、釘頭鎚、斧、連枷等（d8 傷害） |
+| 3 | 戟、戰鎚、長劍等（d10 傷害，笨重） |
+| 4 | 投石索（d6 傷害） |
+| 5 | 弓（d6 傷害，笨重） |
+| 6 | 十字弓（d8 傷害，笨重） |
 
-- 1 Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)
-- 2 Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)
-- 3 Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)
-- 4 Sling (d6 damage)
-- 5 Bow (d6 damage, bulky)
-- 6 Crossbow (d8 damage, bulky)
+## 額外裝備
 
-33
-
-Additional Gear
-
-- 1 Acid
-- 2 Air Bladder
-- 3 Alcohol
-- 4 Antitoxin
-- 5 Bandages (3 uses)
-- 6 Bell
-- 7 Bellows
-- 8 Blanket
-- 9 Boltcutters
-- 10 Bowl
-- 11 Cage
-- 12 Caltrops
-- 13 Candle (3 uses, dim)
-- 14 Cards
-- 15 Cart (+4 slots, bulky)
-- 16 Chain (10ft)
-- 17 Chalk (petty)
-- 18 Chisel
-- 19 Climbing Spikes
-- 20 Cloak (petty)
-- 21 Compass
-- 22 Crowbar
-- 23 Dice
-- 24 Dowsing Rod
-- 25 Explosive
-- 26 Fan
-- 27 Fiddle
-- 28 Fire Oil
-- 29 Fishing Rod
-- 30 Flash Powder
-
-- 31 Flour
-- 32 Garrotte
-- 33 Gloves (petty)
-- 34 Glue
-- 35 Goggles
-- 36 Grappling Hook
-- 37 Grease
-- 38 Hammer
-- 39 Hammock
-- 40 Hand Drill
-- 41 Honey
-- 42 Hourglass
-- 43 Incense
-- 44 Ladder (10 ft, bulky)
-- 45 Lantern
-- 46 Leech (restores 1 STR, 3 uses)
-- 47 Lens
-- 48 Lock & Key
-- 49 Lockpick
-- 50 Lodestone
-- 51 Lute
-- 52 Magnifying Glass
-- 53 Manacles
-- 54 Marbles
-- 55 Mask
-- 56 Metal File
-- 57 Mirror
-- 58 Mugwort
-- 59 Net
-- 60 Oil Can (6 uses)
-- 61 Oilskin Bag
-
-34
-
-- 62 Pail
-- 63 Paint
-- 64 Parchment & Ink (3 uses)
-- 65 Perfume
-- 66 Pickaxe
-- 67 Pipe
-- 68 Pliers
-- 69 Poison
-- 70 Pole (10ft)
-- 71 Poncho (petty)
-- 72 Pulley
-- 73 Random Spellbook
-- 74 Rope (25ft)
-- 75 Sack
-- 76 Saw
-- 77 Scissors
-- 78 Scroll of Random Spellbook (petty)
-- 79 Sealable Bottle
-- 80 Sedative
-- 81 Sewing Kit
-- 82 Sextant
-- 83 Shovel
-
-- 84 Signal Flag
-- 85 Smokebomb
-- 86 Smoking Herbs (3 uses)
-- 87 Songbook
-- 88 Spiked Boots
-- 89 Spyglass
-- 90 Stylus
-- 91 Tar
-- 92 Tent (fits 2, bulky)
-- 93 Tongs
-- 94 Trap (d6 STR damage)
-- 95 Wagon (+8 slots, slow)
-- 96 Waterproof Bag
-- 97 Whetstone
-- 98 Whistle (petty)
-- 99 Wig
-- 100 Wolfsbane
-
-35
+| 骰值 | 結果 |
+| --- | --- |
+| 1 | 酸液 |
+| 2 | 充氣囊 |
+| 3 | 酒 |
+| 4 | 解毒劑 |
+| 5 | 繃帶（3 次使用） |
+| 6 | 鈴鐺 |
+| 7 | 風箱 |
+| 8 | 毯子 |
+| 9 | 斷線鉗 |
+| 10 | 碗 |
+| 11 | 籠子 |
+| 12 | 蒺藜 |
+| 13 | 蠟燭（3 次使用，微光） |
+| 14 | 紙牌 |
+| 15 | 推車（+4 格，笨重） |
+| 16 | 鏈條（10 英尺） |
+| 17 | 粉筆（零碎） |
+| 18 | 鑿子 |
+| 19 | 攀爬釘 |
+| 20 | 披風（零碎） |
+| 21 | 指南針 |
+| 22 | 撬棍 |
+| 23 | 骰子 |
+| 24 | 探水杖 |
+| 25 | 爆炸物 |
+| 26 | 扇子 |
+| 27 | 小提琴 |
+| 28 | 火油 |
+| 29 | 釣竿 |
+| 30 | 閃光粉 |
+| 31 | 麵粉 |
+| 32 | 絞索 |
+| 33 | 手套（零碎） |
+| 34 | 膠水 |
+| 35 | 護目鏡 |
+| 36 | 抓鉤 |
+| 37 | 油脂 |
+| 38 | 鎚子 |
+| 39 | 吊床 |
+| 40 | 手搖鑽 |
+| 41 | 蜂蜜 |
+| 42 | 沙漏 |
+| 43 | 香 |
+| 44 | 梯子（10 英尺，笨重） |
+| 45 | 提燈 |
+| 46 | 水蛭（恢復 1 點 STR，3 次使用） |
+| 47 | 鏡片 |
+| 48 | 鎖與鑰匙 |
+| 49 | 開鎖工具 |
+| 50 | 磁石 |
+| 51 | 魯特琴 |
+| 52 | 放大鏡 |
+| 53 | 鐐銬 |
+| 54 | 彈珠 |
+| 55 | 面具 |
+| 56 | 金屬銼 |
+| 57 | 鏡子 |
+| 58 | 艾草 |
+| 59 | 網 |
+| 60 | 油壺（6 次使用） |
+| 61 | 油布袋 |
+| 62 | 水桶 |
+| 63 | 顏料 |
+| 64 | 羊皮紙與墨水（3 次使用） |
+| 65 | 香水 |
+| 66 | 鶴嘴鋤 |
+| 67 | 煙斗 |
+| 68 | 鉗子 |
+| 69 | 毒藥 |
+| 70 | 長桿（10 英尺） |
+| 71 | 斗篷（零碎） |
+| 72 | 滑輪 |
+| 73 | 隨機法術書 |
+| 74 | 繩索（25 英尺） |
+| 75 | 麻袋 |
+| 76 | 鋸子 |
+| 77 | 剪刀 |
+| 78 | 隨機法術書卷軸（零碎） |
+| 79 | 可密封瓶 |
+| 80 | 鎮靜劑 |
+| 81 | 縫紉工具組 |
+| 82 | 六分儀 |
+| 83 | 鏟子 |
+| 84 | 信號旗 |
+| 85 | 煙霧彈 |
+| 86 | 吸食藥草（3 次使用） |
+| 87 | 歌集 |
+| 88 | 尖刺靴 |
+| 89 | 望遠鏡 |
+| 90 | 鐵筆 |
+| 91 | 柏油 |
+| 92 | 帳篷（可容納 2 人，笨重） |
+| 93 | 夾子 |
+| 94 | 陷阱（d6 STR 傷害） |
+| 95 | 馬車（+8 格，緩慢） |
+| 96 | 防水袋 |
+| 97 | 磨刀石 |
+| 98 | 哨子（零碎） |
+| 99 | 假髮 |
+| 100 | 附子草 |
