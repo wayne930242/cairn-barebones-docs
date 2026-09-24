@@ -9,11 +9,11 @@ sidebar:
 
 1. 擲骰決定角色的名字、姓氏，以及年齡（2d20+10）。
 2. 擲骰決定角色的[屬性與防護值](#屬性)。
-3. 擲骰決定角色的[特徵](/cairn-barebones-docs/character-creation/traits/)。
-4. 擲骰決定角色的[出身與相關物品](/cairn-barebones-docs/character-creation/traits/#出身)。
-5. 擲骰決定角色的[武器與護甲](/cairn-barebones-docs/character-creation/armor-weapons/)。
-6. 擲骰決定一項[額外裝備](/cairn-barebones-docs/character-creation/armor-weapons/#額外裝備)，完成角色的起始裝備。
-7. 從[市集](/cairn-barebones-docs/marketplace/)購買角色負擔得起的其他物品。
+3. 擲骰決定角色的[特徵](/character-creation/traits/)。
+4. 擲骰決定角色的[出身與相關物品](/character-creation/traits/#出身)。
+5. 擲骰決定角色的[武器與護甲](/character-creation/armor-weapons/)。
+6. 擲骰決定一項[額外裝備](/character-creation/armor-weapons/#額外裝備)，完成角色的起始裝備。
+7. 從[市集](/marketplace/)購買角色負擔得起的其他物品。
 
 ### 姓名
 

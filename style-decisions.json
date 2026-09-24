@@ -58,7 +58,8 @@
     "title": "石塚：陽春版",
     "description": "Cairn: Barebones Edition 繁體中文規則書——地穴探索、快速隨機創角、致命戰鬥的極簡 OSR 規則",
     "tagline": "地道、頹堡、幽林，那些恐怖之地",
-    "intro": "《石塚：陽春版》是一款關於穿越地底通道、頹圮城堡、幽暗森林與各種恐怖之地的冒險遊戲。角色創建完全隨機且快速，探索充滿張力與回報，戰鬥則混亂而致命。"
+    "intro": "《石塚：陽春版》是一款關於穿越地底通道、頹圮城堡、幽暗森林與各種恐怖之地的冒險遊戲。角色創建完全隨機且快速，探索充滿張力與回報，戰鬥則混亂而致命。",
+    "original_title": "Cairn: Barebones Edition"
   },
   "copyright": {
     "text": "© 2026 Yochai Gal. Text is CC BY-SA 4.0. 中文翻譯內容依原授權條款提供。",
@@ -102,7 +103,7 @@
     "reason": "使用者選擇啟用 Codex 草稿分層以節省 Claude token；schema 無 codex_tier 專屬定義，暫用通用 decisionRecord 形狀繞過驗證錯誤（詳見 dogfood 發現 #14）"
   },
   "deployment": {
-    "target": "github-pages",
-    "base_path": "/cairn-barebones-docs"
+    "target": "blog",
+    "base_path": "/books/cairn-barebones"
   }
 }

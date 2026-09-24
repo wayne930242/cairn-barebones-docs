@@ -23,8 +23,7 @@ const SITE_CONFIG = {
 // ============================================
 
 export default defineConfig({
-	site: 'https://wayne930242.github.io',
-	base: '/cairn-barebones-docs',
+	base: '/books/cairn-barebones',
 	markdown: {
 		smartypants: false,
 	},
